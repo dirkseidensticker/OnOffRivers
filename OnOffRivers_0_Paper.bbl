@@ -1,0 +1,684 @@
+\begin{thebibliography}{74}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Book
+\bibitem[{Adams et~al.(1988)Adams, MacKenzie and Guilford}]{Adams.1988}
+\bibinfo{author}{Adams, A.E.}, \bibinfo{author}{MacKenzie, W.S.},
+  \bibinfo{author}{Guilford, C.}, \bibinfo{year}{1988}.
+\newblock \bibinfo{title}{Atlas of Sedimentary Rocks under the Microscope}.
+\newblock \bibinfo{publisher}{English Language Book Society},
+  \bibinfo{address}{London}.
+%Type = Article
+\bibitem[{Adamson et~al.(1987)Adamson, Clark and Williams}]{Adamson.1987}
+\bibinfo{author}{Adamson, D.A.}, \bibinfo{author}{Clark, J.D.},
+  \bibinfo{author}{Williams, M.A.J.}, \bibinfo{year}{1987}.
+\newblock \bibinfo{title}{Pottery tempered with sponge from the {{White Nile}},
+  {{Sudan}}}.
+\newblock \bibinfo{journal}{The African Archaeological Review}
+  \bibinfo{volume}{5}, \bibinfo{pages}{115--127}.
+\newblock \DOIprefix\doi{10.1007/BF01117087}.
+%Type = Phdthesis
+\bibitem[{Ashley(2005)}]{Ashley.2005}
+\bibinfo{author}{Ashley, C.Z.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Ceramic Variability and Change: {{A}} Perspective
+  from {{Great Lakes Africa}}}.
+\newblock Ph.D. thesis. University College London. \bibinfo{address}{London}.
+%Type = Article
+\bibitem[{Ashley(2010)}]{Ashley.2010}
+\bibinfo{author}{Ashley, C.Z.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Towards a {{Socialised Archaeology}} of {{Ceramics}}
+  in {{Great Lakes Africa}}}.
+\newblock \bibinfo{journal}{African Archaeological Review}
+  \bibinfo{volume}{27}, \bibinfo{pages}{135--163}.
+%Type = Article
+\bibitem[{Bloch et~al.(2019)Bloch, Wallis, Kamenov and Jaeger}]{Bloch.2019}
+\bibinfo{author}{Bloch, L.}, \bibinfo{author}{Wallis, N.J.},
+  \bibinfo{author}{Kamenov, G.}, \bibinfo{author}{Jaeger, J.M.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Production origins and matrix constituents of
+  spiculate pottery in {{Florida}}, {{USA}}: {{Defining}} ubiquitous {{St
+  Johns}} ware by {{LA-ICP-MS}} and {{XRD}}}.
+\newblock \bibinfo{journal}{Journal of Archaeological Science: Reports}
+  \bibinfo{volume}{24}, \bibinfo{pages}{313--323}.
+\newblock \DOIprefix\doi{10.1016/j.jasrep.2019.01.012}.
+%Type = Article
+\bibitem[{Bower(1986)}]{Bower.1986}
+\bibinfo{author}{Bower, J.}, \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{A survey of surveys: {{Aspects}} of surface
+  archaeology in sub-{{Saharan Afican}}}.
+\newblock \bibinfo{journal}{African Archaeological Review} \bibinfo{volume}{4},
+  \bibinfo{pages}{21--40}.
+%Type = Article
+\bibitem[{Brissaud and Houdayer(1986)}]{Brissaud.1986}
+\bibinfo{author}{Brissaud, I.}, \bibinfo{author}{Houdayer, A.},
+  \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{Sponge spicules as a characteristic of ancient
+  {{African}} pottery from {{Mali}}}.
+\newblock \bibinfo{journal}{Journal of Field Archaeology} \bibinfo{volume}{13},
+  \bibinfo{pages}{357--359}.
+%Type = Article
+\bibitem[{Cau et~al.(2004)Cau, Day, Baxter, Papageorgiou, Iliopoulos and
+  Montana}]{Cau.2004}
+\bibinfo{author}{Cau, M.A.}, \bibinfo{author}{Day, P.M.},
+  \bibinfo{author}{Baxter, M.J.}, \bibinfo{author}{Papageorgiou, I.},
+  \bibinfo{author}{Iliopoulos, I.}, \bibinfo{author}{Montana, G.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Exploring automatic grouping procedures in ceramic
+  petrology}.
+\newblock \bibinfo{journal}{Journal of Archaeological Science}
+  \bibinfo{volume}{31}, \bibinfo{pages}{1325--1338}.
+\newblock \DOIprefix\doi{10.1016/j.jas.2004.03.006}.
+%Type = Book
+\bibitem[{Coart and {de Haulleville}(1907)}]{Coart.1907}
+\bibinfo{author}{Coart, E.}, \bibinfo{author}{{de Haulleville}, A.},
+  \bibinfo{year}{1907}.
+\newblock \bibinfo{title}{Notes Analytiques Sur Les Collections Ethnographiques
+  Du {{Mus{\'e}e}} Du {{Congo}}: {{Les}} Industries Indig{\`e}nes: {{La}}
+  Ceramique}. volume~\bibinfo{volume}{3} of \textit{\bibinfo{series}{Annales Du
+  {{Mus{\'e}e}} Du {{Congo}}}}.
+\newblock \bibinfo{publisher}{Mus{\'e}e du Congo},
+  \bibinfo{address}{Br{\"u}ssel}.
+%Type = Article
+\bibitem[{Cordell(1993)}]{Cordell.1993}
+\bibinfo{author}{Cordell, A.S.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Chronological variability in ceramic paste: {{A}}
+  comparison of deptford and savannah period pottery in the st. {{Marys}} river
+  region of northeast {{Florida}} and southeast {{Georgia}}}.
+\newblock \bibinfo{journal}{Southeastern Archaeology} \bibinfo{volume}{12},
+  \bibinfo{pages}{33--58}.
+\newblock \href{http://arxiv.org/abs/40712986}{{\tt arXiv:40712986}}.
+%Type = Article
+\bibitem[{da~Costa et~al.(2004)da~Costa, Kern, Pinto and Souza}]{Costa.2004}
+\bibinfo{author}{da~Costa, M.L.}, \bibinfo{author}{Kern, D.C.},
+  \bibinfo{author}{Pinto, A.H.E.}, \bibinfo{author}{Souza, J.R.d.T.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{The ceramic artifacts in archaeological black earth
+  (terra preta) from lower {{Amazon}} region, {{Brazil}}: Mineralogy}.
+\newblock \bibinfo{journal}{Acta Amazonica} \bibinfo{volume}{34},
+  \bibinfo{pages}{165--178}.
+\newblock \DOIprefix\doi{10.1590/S0044-59672004000200004}.
+%Type = Misc
+\bibitem[{Crema and Di~Napoli(2021)}]{Crema.2021a}
+\bibinfo{author}{Crema, E.R.}, \bibinfo{author}{Di~Napoli, R.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{{nimbleCarbon}}: {{Bayesian Analyses}} of
+  {{Radiocarbon Dates}} with {{NIMBLE}}}.
+%Type = Article
+\bibitem[{Crema and Shoda(2021)}]{Crema.2021b}
+\bibinfo{author}{Crema, E.R.}, \bibinfo{author}{Shoda, S.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{A {{Bayesian}} approach for fitting and comparing
+  demographic growth models of radiocarbon dates: {{A}} case study on the
+  {{Jomon-Yayoi}} transition in {{Kyushu}} ({{Japan}})}.
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{16},
+  \bibinfo{pages}{e0251695}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0251695}.
+%Type = Incollection
+\bibitem[{Day(2004)}]{Day.2004}
+\bibinfo{author}{Day, P.M.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Marriage and {{Mobility}}: {{Traditions}} and the
+  {{Dynamics}} of the {{Pottery System}} in {{Twentieth Century East Crete}}},
+  in: \bibinfo{editor}{Betancourt, P.P.}, \bibinfo{editor}{Davaras, C.},
+  \bibinfo{editor}{Simpson, R.H.} (Eds.), \bibinfo{booktitle}{Pseira {{VIII}}:
+  {{The Archaeological Survey}} of {{Pseira Island}}, {{Part}} 1}.
+  \bibinfo{publisher}{INSTAP Academic Press (Institute for Aegean Prehistory)},
+  pp. \bibinfo{pages}{105--142}.
+\newblock \DOIprefix\doi{10.2307/j.ctt3fgvjm},
+  \href{http://arxiv.org/abs/10.2307/j.ctt3fgvjm}{{\tt
+  arXiv:10.2307/j.ctt3fgvjm}}.
+%Type = Article
+\bibitem[{Dixon(1950)}]{Dixon.1950}
+\bibinfo{author}{Dixon, W.J.}, \bibinfo{year}{1950}.
+\newblock \bibinfo{title}{Analysis of {{Extreme Values}}}.
+\newblock \bibinfo{journal}{The Annals of Mathematical Statistics}
+  \bibinfo{volume}{21}, \bibinfo{pages}{488--506}.
+\newblock \DOIprefix\doi{10.1214/aoms/1177729747}.
+%Type = Book
+\bibitem[{Drost(1967)}]{Drost.1967}
+\bibinfo{author}{Drost, D.}, \bibinfo{year}{1967}.
+\newblock \bibinfo{title}{T{\"o}pferei in~{{Afrika}}: {{Technologie}}}.
+  volume~\bibinfo{volume}{15} of
+  \textit{\bibinfo{series}{Ver{\"o}ffentlichungen Des {{Museums}} F{\"u}r
+  {{V{\"o}lkerkunde}} Zu {{Leipzig}} / {{Museum}} F{\"u}r
+  {{V{\"o}lkerkunde}}}}.
+\newblock \bibinfo{publisher}{Akademie-Verlag}, \bibinfo{address}{Berlin}.
+%Type = Article
+\bibitem[{Eggert(1983)}]{Eggert.1983}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{year}{1983}.
+\newblock \bibinfo{title}{Remarks on {{Exploring Archaeologically Unknown Rain
+  Forest Territory}}. {{The Case}} of {{Central Africa}}}.
+\newblock \bibinfo{journal}{Beitr{\"a}ge zur Allgemeinen und Vergleichenden
+  Arch{\"a}ologie} \bibinfo{volume}{5}, \bibinfo{pages}{283--322}.
+%Type = Article
+\bibitem[{Eggert(1984a)}]{Eggert.1984a}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{year}{1984}a.
+\newblock \bibinfo{title}{The current state of archaeological research in the
+  equatorial rainforest of {{Za{\"i}re}}}.
+\newblock \bibinfo{journal}{Nyame Akuma} \bibinfo{volume}{24/25},
+  \bibinfo{pages}{39--42}.
+%Type = Article
+\bibitem[{Eggert(1984b)}]{Eggert.1984}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{year}{1984}b.
+\newblock \bibinfo{title}{{Imbonga und Lingonda: Zur fr{\"u}hesten Besiedlung
+  des zentralafrikanischen~Regenwaldes}}.
+\newblock \bibinfo{journal}{Beitr{\"a}ge zur Allgemeinen und Vergleichenden
+  Arch{\"a}ologie} \bibinfo{volume}{6}, \bibinfo{pages}{247--288}.
+%Type = Article
+\bibitem[{Eggert(1987)}]{Eggert.1987a}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{year}{1987}.
+\newblock \bibinfo{title}{Imbonga and {{Batalimo}}: Ceramic evidence for early
+  settlement of the equatorial rain forest}.
+\newblock \bibinfo{journal}{African Archaeological Review} \bibinfo{volume}{5},
+  \bibinfo{pages}{129--145}.
+\newblock \DOIprefix\doi{10.1007/BF01117088}.
+%Type = Article
+\bibitem[{Eggert(1992)}]{Eggert.1992}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{The {{Central African Rain Forest}}: {{Historical
+  Speculation}} and {{Archaeological Facts}}}.
+\newblock \bibinfo{journal}{World Archaeology} \bibinfo{volume}{24},
+  \bibinfo{pages}{1--24}.
+\newblock \DOIprefix\doi{10.1080/00438243.1992.9980190}.
+%Type = Incollection
+\bibitem[{Eggert(1993)}]{Eggert.1993}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Central {{Africa}} and the {{Archaeology}} of the
+  {{Equatorial Rainforest}}. {{Reflections}} on {{Some Major Topics}}}, in:
+  \bibinfo{editor}{Shaw, T.}, \bibinfo{editor}{Sinclair, P.},
+  \bibinfo{editor}{Andah, B.}, \bibinfo{editor}{Okpoko, A.} (Eds.),
+  \bibinfo{booktitle}{The {{Archaeology}} of {{Africa}}. {{Food}}, {{Metal}}
+  and {{Towns}}}. \bibinfo{publisher}{Routledge}, \bibinfo{address}{London and
+  New York}. One {{World Archaeology}}, pp. \bibinfo{pages}{289--329}.
+%Type = Article
+\bibitem[{Eggert and {Kanimba-Misago}(1980)}]{Eggert.1980c}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{author}{{Kanimba-Misago}},
+  \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{{Aspects d'un m{\'e}tier traditionnel: L'industrie de
+  poterie {\`a} Ikenge (R{\'e}gion de l'Equateur, Za{\"i}re)}}.
+\newblock \bibinfo{journal}{Baesseler-Archiv NF} \bibinfo{volume}{28},
+  \bibinfo{pages}{387--430}.
+%Type = Article
+\bibitem[{Eggert and Kanimba~Misago(1978)}]{Eggert.1978}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{author}{Kanimba~Misago, C.},
+  \bibinfo{year}{1978}.
+\newblock \bibinfo{title}{Report on {{Archaeological}}, {{Ethnographic}}, and
+  {{Geographic Fieldwork}} in~{{Equator Province}}, {{Zaire}}}.
+\newblock \bibinfo{journal}{Nyame Akuma} \bibinfo{volume}{13},
+  \bibinfo{pages}{41--45}.
+%Type = Article
+\bibitem[{Eggert and Kanimba~Misago(1987)}]{Eggert.1987d}
+\bibinfo{author}{Eggert, M.K.H.}, \bibinfo{author}{Kanimba~Misago, C.},
+  \bibinfo{year}{1987}.
+\newblock \bibinfo{title}{Recherches arch{\'e}ologiques et ethnographiques dans
+  les {{R{\'e}gions}} de l'{{Equateur}} ({{Zaire}}), de la {{Cuvette}} de la
+  {{Sangha}} et de la {{Likouala}} ({{Congo}}): {{Rapport}} pr{\'e}liminaire}.
+\newblock \bibinfo{journal}{Annales Aequatoria} \bibinfo{volume}{8},
+  \bibinfo{pages}{481--486}.
+%Type = Incollection
+\bibitem[{Eggert(1991)}]{Eggert.1991}
+\bibinfo{author}{Eggert, R.K.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{Der {{Handel}} mit moderner {{Tonware}} in der
+  {{{\"A}quatorregion Za{\"i}res}}}, in: \bibinfo{editor}{L{\"u}dtke, H.},
+  \bibinfo{editor}{Vossen, R.} (Eds.),
+  \bibinfo{booktitle}{T{\"o}pfereiforschung -- Arch{\"a}ologisch, Ethnologisch,
+  Volkskundlich}. \bibinfo{publisher}{R. Habelt}, \bibinfo{address}{Bonn}.
+  T{\"o}pferei- Und {{Keramikforschung}}, pp. \bibinfo{pages}{369--382}.
+%Type = Book
+\bibitem[{Engels(1912)}]{Engels.1912}
+\bibinfo{author}{Engels, A.}, \bibinfo{year}{1912}.
+\newblock \bibinfo{title}{Les {{Wangata}} ({{Tribu}} Du {{Congo~Belge}}):
+  {{{\'E}tude}} Ethnographique}.
+\newblock \bibinfo{publisher}{Vromant}, \bibinfo{address}{Bruxelles and Paris}.
+%Type = Article
+\bibitem[{Epossi~Ntah and Cultrone(2024)}]{EpossiNtah.2024}
+\bibinfo{author}{Epossi~Ntah, Z.L.}, \bibinfo{author}{Cultrone, G.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Chemical, mineralogical and physical study of {{Late
+  Iron Age}} ceramics from {{Nditam}}: {{Cameroon}} ({{West}} central
+  {{Africa}})}.
+\newblock \bibinfo{journal}{Heritage Science} \bibinfo{volume}{12},
+  \bibinfo{pages}{6}.
+\newblock \DOIprefix\doi{10.1186/s40494-023-01120-1}.
+%Type = Article
+\bibitem[{Fedorov et~al.(2012)Fedorov, Beichel, {Kalpathy-Cramer}, Finet,
+  {Fillion-Robin}, Pujol, Bauer, Jennings, Fennessy, Sonka, Buatti, Aylward,
+  Miller, Pieper and Kikinis}]{Fedorov.2012}
+\bibinfo{author}{Fedorov, A.}, \bibinfo{author}{Beichel, R.},
+  \bibinfo{author}{{Kalpathy-Cramer}, J.}, \bibinfo{author}{Finet, J.},
+  \bibinfo{author}{{Fillion-Robin}, J.C.}, \bibinfo{author}{Pujol, S.},
+  \bibinfo{author}{Bauer, C.}, \bibinfo{author}{Jennings, D.},
+  \bibinfo{author}{Fennessy, F.}, \bibinfo{author}{Sonka, M.},
+  \bibinfo{author}{Buatti, J.}, \bibinfo{author}{Aylward, S.},
+  \bibinfo{author}{Miller, J.V.}, \bibinfo{author}{Pieper, S.},
+  \bibinfo{author}{Kikinis, R.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{{3D Slicer}} as an image computing platform for the
+  {{Quantitative Imaging Network}}}.
+\newblock \bibinfo{journal}{Magnetic Resonance Imaging} \bibinfo{volume}{30},
+  \bibinfo{pages}{1323--1341}.
+\newblock \DOIprefix\doi{10.1016/j.mri.2012.05.001}.
+%Type = Article
+\bibitem[{Geyh(1990)}]{Geyh.1990}
+\bibinfo{author}{Geyh, M.A.}, \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Radiocarbon dating problems using acetylene as
+  counting gas}.
+\newblock \bibinfo{journal}{Radiocarbon} \bibinfo{volume}{32},
+  \bibinfo{pages}{321--324}.
+\newblock \DOIprefix\doi{10.1017/S0033822200012947}.
+%Type = Phdthesis
+\bibitem[{Gillet(2013)}]{Gillet.2013}
+\bibinfo{author}{Gillet, J.F.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Les for{\^e}ts {\`a} Marantaceae au sein de la
+  mosa{\"i}que foresti{\`e}re du Nord de la R{\'e}publique du Congo: Origines
+  et modalit{\'e}s de gestion}}.
+\newblock Ph.D. thesis. Universit{\'e} de Li{\`e}ge.
+  \bibinfo{address}{Li{\`e}ge}.
+%Type = Incollection
+\bibitem[{Gosselain(2018)}]{Gosselain.2018}
+\bibinfo{author}{Gosselain, O.P.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Pottery cha{\^i}nes op{\'e}ratoires as {{Historical
+  Documents}}}, in: \bibinfo{booktitle}{Oxford {{Research Encyclopedia}} of
+  {{African History}}}. \bibinfo{publisher}{Oxford University Press},
+  \bibinfo{address}{Oxford}.
+\newblock \DOIprefix\doi{10.1093/acrefore/9780190277734.013.208}.
+%Type = Incollection
+\bibitem[{Gosselain and Livingstone~Smith(2005)}]{Gosselain.2005}
+\bibinfo{author}{Gosselain, O.P.}, \bibinfo{author}{Livingstone~Smith, A.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{The {{Source}}: {{Clay Selection}} and {{Processing
+  Practices}} in sub-{{Saharan Africa}}}, in:
+  \bibinfo{editor}{Livingstone~Smith, A.}, \bibinfo{editor}{Bosquet, D.}
+  (Eds.), \bibinfo{booktitle}{Pottery Manufacturing Processes: {{Actes}} Du
+  {{XIV{\`e}me Congr{\`e}s UISPP}}, {{Universit{\'e}}} de {{Li{\`e}ge}},
+  {{Belgique}}, 2-8 Septembre 2001, {{Section}} 2: {{Archaeometry}}, Colloque =
+  Symposium 2.1}. \bibinfo{publisher}{Archaeopress}, \bibinfo{address}{Oxford}.
+  {{BAR International Series}}, pp. \bibinfo{pages}{33--47}.
+%Type = Manual
+\bibitem[{Hollister et~al.(2022)Hollister, Shah, Robitaille, Beck and
+  Johnson}]{Hollister.2022}
+\bibinfo{author}{Hollister, J.}, \bibinfo{author}{Shah, T.},
+  \bibinfo{author}{Robitaille, A.L.}, \bibinfo{author}{Beck, M.W.},
+  \bibinfo{author}{Johnson, M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Elevatr: {{Access}} Elevation Data from Various
+  {{APIs}}}.
+\newblock \DOIprefix\doi{10.5281/zenodo.5809645}.
+%Type = Article
+\bibitem[{Kanimba~Misago(1992)}]{KanimbaMisago.1992a}
+\bibinfo{author}{Kanimba~Misago, C.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{{Recherches ethnoarch{\'e}ologiques {\`a} Ikenge,
+  R{\'e}gion de l'Equateur, Za{\"i}re}}.
+\newblock \bibinfo{journal}{Nsi} \bibinfo{volume}{10/11},
+  \bibinfo{pages}{41--46}.
+%Type = Misc
+\bibitem[{Komsta(2022)}]{Komsta.2022}
+\bibinfo{author}{Komsta, L.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Outliers (v0.15): {{Tests}} for outliers}.
+%Type = Article
+\bibitem[{L{\^e} et~al.(2008)L{\^e}, Josse and Husson}]{Le.2008}
+\bibinfo{author}{L{\^e}, S.}, \bibinfo{author}{Josse, J.},
+  \bibinfo{author}{Husson, F.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{{FactoMineR}}: {{A}} package for multivariate
+  analysis}.
+\newblock \bibinfo{journal}{Journal of Statistical Software}
+  \bibinfo{volume}{25}, \bibinfo{pages}{1--18}.
+\newblock \DOIprefix\doi{10.18637/jss.v025.i01}.
+%Type = Article
+\bibitem[{Linn{\'e}(1932)}]{Linne.1932}
+\bibinfo{author}{Linn{\'e}, S.}, \bibinfo{year}{1932}.
+\newblock \bibinfo{title}{{Contribution a l'{\'e}tude de la c{\'e}ramique
+  Sudam{\'e}ricaine}}.
+\newblock \bibinfo{journal}{Revista del Instituto de Etnolpog{\'i}a de la
+  Universidad Nacional de Tucum{\'a}n} \bibinfo{volume}{2}.
+%Type = Article
+\bibitem[{Linn{\'e}(1957)}]{Linne.1957}
+\bibinfo{author}{Linn{\'e}, S.}, \bibinfo{year}{1957}.
+\newblock \bibinfo{title}{Technical {{Secrets}} of {{American Indians}}}.
+\newblock \bibinfo{journal}{The Journal of the Royal Anthropological Institute
+  of Great Britain and Ireland} \bibinfo{volume}{87}, \bibinfo{pages}{149}.
+\newblock \DOIprefix\doi{10.2307/2844101},
+  \href{http://arxiv.org/abs/2844101}{{\tt arXiv:2844101}}.
+%Type = Article
+\bibitem[{Livingstone~Smith et~al.(2017)Livingstone~Smith, Cornelissen, {de
+  Francquen}, Nikis, Mees, Tshibamba~Mukendi, Beeckman, Bourland and
+  Hubau}]{LivingstoneSmith.2017}
+\bibinfo{author}{Livingstone~Smith, A.}, \bibinfo{author}{Cornelissen, E.},
+  \bibinfo{author}{{de Francquen}, C.}, \bibinfo{author}{Nikis, N.},
+  \bibinfo{author}{Mees, F.}, \bibinfo{author}{Tshibamba~Mukendi, J.},
+  \bibinfo{author}{Beeckman, H.}, \bibinfo{author}{Bourland, N.},
+  \bibinfo{author}{Hubau, W.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Forests and rivers: {{The}} archaeology of the north
+  eastern {{Congo}}}.
+\newblock \bibinfo{journal}{Quaternary International} \bibinfo{volume}{448},
+  \bibinfo{pages}{95--116}.
+\newblock \DOIprefix\doi{10.1016/j.quaint.2016.10.010}.
+%Type = Phdthesis
+\bibitem[{Lozada~Mendieta(2019)}]{LozadaMendieta.2019}
+\bibinfo{author}{Lozada~Mendieta, N.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Ancient Pots and Potters of the {{Atures Rapids}}
+  Region: Occupation and Interaction Processes in Pre-Colonial {{Middle
+  Orinoco}}, {{Venezuela}}}.
+\newblock \bibinfo{type}{Doctoral thesis ({{Ph}}.{{D}})}. UCL (University
+  College London). \bibinfo{address}{London}.
+%Type = Article
+\bibitem[{{\L}ukowiak et~al.(2022){\L}ukowiak, Van~Soest, Klautau, P{\'e}rez,
+  Pisera and Tabachnick}]{Lukowiak.2022}
+\bibinfo{author}{{\L}ukowiak, M.}, \bibinfo{author}{Van~Soest, R.},
+  \bibinfo{author}{Klautau, M.}, \bibinfo{author}{P{\'e}rez, T.},
+  \bibinfo{author}{Pisera, A.}, \bibinfo{author}{Tabachnick, K.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{The terminology of sponge spicules}.
+\newblock \bibinfo{journal}{Journal of Morphology} \bibinfo{volume}{283},
+  \bibinfo{pages}{1517--1545}.
+\newblock \DOIprefix\doi{10.1002/jmor.21520}.
+%Type = Book
+\bibitem[{MacKenzie et~al.(2017)MacKenzie, Adams and Brodie}]{MacKenzie.2017}
+\bibinfo{author}{MacKenzie, W.S.}, \bibinfo{author}{Adams, A.E.},
+  \bibinfo{author}{Brodie, K.H.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Rocks and Minerals in Thin Section}.
+\newblock \bibinfo{edition}{Revised 2nd ed} ed., \bibinfo{publisher}{CRC
+  press}, \bibinfo{address}{Boca Raton}.
+%Type = Book
+\bibitem[{MacKenzie et~al.(1991)MacKenzie, Donaldson and
+  Guilford}]{MacKenzie.1991}
+\bibinfo{author}{MacKenzie, W.S.}, \bibinfo{author}{Donaldson, C.H.},
+  \bibinfo{author}{Guilford, C.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{Atlas of Igneous Rocks and Their Textures}.
+\newblock \bibinfo{publisher}{{Longman scientific and technical J. Wiley and
+  sons}}, \bibinfo{address}{Harlow New York}.
+%Type = Book
+\bibitem[{MacKenzie and Guilford(1980)}]{MacKenzie.1980}
+\bibinfo{author}{MacKenzie, W.S.}, \bibinfo{author}{Guilford, C.},
+  \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{Atlas of Rock-Forming Minerals in Thin Section}.
+\newblock \bibinfo{publisher}{Halsted Press}, \bibinfo{address}{New York}.
+%Type = Article
+\bibitem[{Maes(1937)}]{Maes.1937}
+\bibinfo{author}{Maes, J.}, \bibinfo{year}{1937}.
+\newblock \bibinfo{title}{{Poterie au Lac L{\'e}opold II}}.
+\newblock \bibinfo{journal}{Artes Africanae} , \bibinfo{pages}{20--43}.
+%Type = Book
+\bibitem[{Manconi and Pronzato(2009)}]{Manconi.2009}
+\bibinfo{author}{Manconi, R.}, \bibinfo{author}{Pronzato, R.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Atlas of {{African}} Freshwater Sponges}.
+\newblock Number \bibinfo{number}{v. 295} in \bibinfo{series}{Studies in
+  Afrotropical Zoology}, \bibinfo{publisher}{Royal Museum for Central Africa},
+  \bibinfo{address}{Tervuren}.
+%Type = Article
+\bibitem[{Masschaele et~al.(2013)Masschaele, Dierick, Loo, Boone, Brabant,
+  Pauwels, Cnudde and Hoorebeke}]{Masschaele.2013}
+\bibinfo{author}{Masschaele, B.}, \bibinfo{author}{Dierick, M.},
+  \bibinfo{author}{Loo, D.V.}, \bibinfo{author}{Boone, M.N.},
+  \bibinfo{author}{Brabant, L.}, \bibinfo{author}{Pauwels, E.},
+  \bibinfo{author}{Cnudde, V.}, \bibinfo{author}{Hoorebeke, L.V.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{{HECTOR}}: {{A 240kV}} micro-{{CT}} setup optimized
+  for research}.
+\newblock \bibinfo{journal}{Journal of Physics: Conference Series}
+  \bibinfo{volume}{463}, \bibinfo{pages}{012012}.
+\newblock \DOIprefix\doi{10.1088/1742-6596/463/1/012012}.
+%Type = Article
+\bibitem[{Mcintosh and MacDonald(1989)}]{Mcintosh.1989}
+\bibinfo{author}{Mcintosh, S.K.}, \bibinfo{author}{MacDonald, K.C.},
+  \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{Sponge {{Spicules}} in {{Pottery}}: {{New Data}} from
+  {{Mali}}}.
+\newblock \bibinfo{journal}{Journal of Field Archaeology} \bibinfo{volume}{16},
+  \bibinfo{pages}{489--494}.
+\newblock \DOIprefix\doi{10.1179/jfa.1989.16.4.489}.
+%Type = Article
+\bibitem[{Mercader(2000)}]{Mercader.2000}
+\bibinfo{author}{Mercader, J.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Ceramic {{Tradition}} in the {{African Forest}}:
+  {{Characterisation Analysis}} of {{Ancient}} and {{Modern Pottery}} from
+  {{Ituri}}, {{D}}.{{R}}. {{Congo}}}.
+\newblock \bibinfo{journal}{Journal of Archaeological Science}
+  \bibinfo{volume}{27}, \bibinfo{pages}{163--182}.
+%Type = Article
+\bibitem[{Natalio et~al.(2015)Natalio, Corrales, Wanka, Zaslansky, Kappl, Lima,
+  Butt and Tremel}]{Natalio.2015}
+\bibinfo{author}{Natalio, F.}, \bibinfo{author}{Corrales, T.P.},
+  \bibinfo{author}{Wanka, S.}, \bibinfo{author}{Zaslansky, P.},
+  \bibinfo{author}{Kappl, M.}, \bibinfo{author}{Lima, H.P.},
+  \bibinfo{author}{Butt, H.J.}, \bibinfo{author}{Tremel, W.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Siliceous spicules enhance fracture-resistance and
+  stiffness of pre-colonial {{Amazonian}} ceramics}.
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{5},
+  \bibinfo{pages}{13303}.
+\newblock \DOIprefix\doi{10.1038/srep13303}.
+%Type = Incollection
+\bibitem[{Nixon and MacDonald(2017)}]{Nixon.2017}
+\bibinfo{author}{Nixon, S.}, \bibinfo{author}{MacDonald, K.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Pottery}, in: \bibinfo{editor}{Nixon, S.} (Ed.),
+  \bibinfo{booktitle}{Essouk-{{Tadmekka}}: {{An Early Islamic Trans-Saharan
+  Market Town}}}. \bibinfo{publisher}{Brill}, \bibinfo{address}{Leiden ;
+  Boston}. number \bibinfo{number}{volume 12} in \bibinfo{series}{Journal of
+  {{African}} Archaeology Monograph Series}, pp. \bibinfo{pages}{117--151}.
+%Type = Article
+\bibitem[{Ottalagano(2016)}]{Ottalagano.2016}
+\bibinfo{author}{Ottalagano, F.V.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A diachronic study of pre-{{Hispanic}} vessels from
+  the middle basin of {{Paran{\'a} River}} ({{South America}}) using a
+  petrographic approach}.
+\newblock \bibinfo{journal}{Journal of Archaeological Science: Reports}
+  \bibinfo{volume}{9}, \bibinfo{pages}{320--329}.
+\newblock \DOIprefix\doi{10.1016/j.jasrep.2016.08.012}.
+%Type = Misc
+\bibitem[{Persits et~al.(1997)Persits, Ahlbrandt, Tuttle, Charpentier,
+  Brownfield and Takahashi}]{Persits.1997}
+\bibinfo{author}{Persits, F.}, \bibinfo{author}{Ahlbrandt, T.},
+  \bibinfo{author}{Tuttle, M.}, \bibinfo{author}{Charpentier, R.},
+  \bibinfo{author}{Brownfield, M.E.}, \bibinfo{author}{Takahashi, K.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Maps showing geology, oil and gas fields and
+  geological provinces of {{Africa Open-File Report}} 97-470-{{A}}}.
+\newblock \DOIprefix\doi{10.3133/ofr97470A}.
+%Type = Book
+\bibitem[{Peterson(2009)}]{Peterson.2009}
+\bibinfo{author}{Peterson, S.E.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Thin-Section Petrography of Ceramic Materials}.
+\newblock {{INSTAP}} Archaeological Excavation Manual ; v. 2,
+  \bibinfo{publisher}{INSTAP Academic Press}, \bibinfo{address}{Philadelphia,
+  Pa}.
+%Type = Book
+\bibitem[{Quinn(2022)}]{Quinn.2022}
+\bibinfo{author}{Quinn, P.S.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Thin Section Petrography, Geochemistry and Scanning
+  Electron Microscopy of Archaeological Ceramics}.
+\newblock \bibinfo{edition}{2} ed., \bibinfo{publisher}{Archaeopress
+  Archaeology}, \bibinfo{address}{Oxford}.
+%Type = Incollection
+\bibitem[{Reid(2013)}]{Reid.2013}
+\bibinfo{author}{Reid, A.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{The {{Emergence}} of {{States}} in {{Great Lakes
+  Africa}}}, in: \bibinfo{editor}{Mitchell, P.}, \bibinfo{editor}{Lane, P.},
+  \bibinfo{editor}{Lane, P.J.} (Eds.), \bibinfo{booktitle}{The {{Oxford
+  Handbook}} of {{African Archaeology}}}. \bibinfo{publisher}{Oxford University
+  Press}, \bibinfo{address}{Oxford}. Oxford {{Handbooks}} in {{Archaeology}},
+  pp. \bibinfo{pages}{887--899}.
+%Type = Article
+\bibitem[{Rodrigues et~al.(2017)Rodrigues, {Volkmer-Ribeiro} and
+  Machado}]{Rodrigues.2017}
+\bibinfo{author}{Rodrigues, I.M.M.}, \bibinfo{author}{{Volkmer-Ribeiro}, C.},
+  \bibinfo{author}{Machado, V.d.S.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Cauixi em cer{\^a}mica arqueol{\'o}gica da
+  regi{\~a}o de Lagoa Santa, Minas Gerais: inclus{\~a}o de esponjas processadas
+  ou explora{\c c}{\~a}o de dep{\'o}sitos sedimentares com esp{\'i}culas?}}
+\newblock \bibinfo{journal}{Boletim do Museu Paraense Em{\'i}lio Goeldi.
+  Ci{\^e}ncias Humanas} \bibinfo{volume}{12}, \bibinfo{pages}{85--100}.
+\newblock \DOIprefix\doi{10.1590/1981.81222017000100005}.
+%Type = Article
+\bibitem[{Rorabacher(1991)}]{Rorabacher.1991}
+\bibinfo{author}{Rorabacher, D.B.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{Statistical treatment for rejection of deviant
+  values: Critical values of {{Dixon}}'s "{{Q}}" parameter and related subrange
+  ratios at the 95\% confidence level}.
+\newblock \bibinfo{journal}{Analytical Chemistry} \bibinfo{volume}{63},
+  \bibinfo{pages}{139--146}.
+\newblock \DOIprefix\doi{10.1021/ac00002a010}.
+%Type = Book
+\bibitem[{Runge(2001)}]{Runge.2001}
+\bibinfo{author}{Runge, J.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Landschaftsgenese und Pal{\"a}oklima in
+  Zentralafrika: Physiogeographische Untersuchungen zur Landschaftsentwicklung
+  und klimagesteuerten quart{\"a}ren Vegetations- und Geomorphodynamik in
+  Kongo/Zaire (Kivu, Kasai, Oberkongo) und der Zentralafrikanischen Republik
+  (Mbomou)}}.
+\newblock \bibinfo{publisher}{Borntraeger}, \bibinfo{address}{Berlin}.
+%Type = Book
+\bibitem[{Seidensticker(2021)}]{Seidensticker.2021e}
+\bibinfo{author}{Seidensticker, D.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{Arch{\"a}ologische Untersuchungen zur
+  eisenzeitlichen Besiedlungsgeschichte des nordwestlichen Kongobeckens}}.
+\newblock \bibinfo{publisher}{T{\"u}bingen University Press},
+  \bibinfo{address}{T{\"u}bingen}.
+%Type = Article
+\bibitem[{Seidensticker(2024)}]{Seidensticker.2024}
+\bibinfo{author}{Seidensticker, D.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Pikunda-{{Munda}} and {{Batalimo-Maluba}}:
+  {{Archaeological Investigations}} of the {{Iron Age Settlement History}} of
+  the {{Western}} and {{Northern Congo Basin}}}.
+\newblock \bibinfo{journal}{African Archaeological Review}
+  \DOIprefix\doi{10.1007/s10437-024-09576-7}.
+%Type = Article
+\bibitem[{Seidensticker(2025)}]{Seidensticker.2025}
+\bibinfo{author}{Seidensticker, D.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Pikunda-{{Munda}}: {{Disappearance}} of {{Pottery
+  Production}} in the {{Western Congo Basin}} at the end of the {{Early Iron
+  Age}}}.
+\newblock \bibinfo{journal}{African Archaeological Review} .
+%Type = Article
+\bibitem[{Seidensticker et~al.(2021)Seidensticker, Hubau, Verschuren,
+  {Fortes-Lima}, {de Maret}, Schlebusch and Bostoen}]{Seidensticker.2021}
+\bibinfo{author}{Seidensticker, D.}, \bibinfo{author}{Hubau, W.},
+  \bibinfo{author}{Verschuren, D.}, \bibinfo{author}{{Fortes-Lima}, C.},
+  \bibinfo{author}{{de Maret}, P.}, \bibinfo{author}{Schlebusch, C.M.},
+  \bibinfo{author}{Bostoen, K.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Population {{Collapse}} in {{Congo Rainforest}} from
+  {{AD}} 400 {{Urges Reassessment}} of the {{Bantu Expansion}}}.
+\newblock \bibinfo{journal}{Science Advances} \bibinfo{volume}{7}.
+\newblock \DOIprefix\doi{10.1126/sciadv.abd8352}.
+%Type = Article
+\bibitem[{T{\'o}th et~al.(2023)T{\'o}th, Pet{\v r}{\'i}k, Bickle,
+  Adamekov{\'a}, Denis, Slav{\'i}{\v c}ek, Petr, Pokutta and
+  Isaksson}]{Toth.2023}
+\bibinfo{author}{T{\'o}th, P.}, \bibinfo{author}{Pet{\v r}{\'i}k, J.},
+  \bibinfo{author}{Bickle, P.}, \bibinfo{author}{Adamekov{\'a}, K.},
+  \bibinfo{author}{Denis, S.}, \bibinfo{author}{Slav{\'i}{\v c}ek, K.},
+  \bibinfo{author}{Petr, L.}, \bibinfo{author}{Pokutta, D.},
+  \bibinfo{author}{Isaksson, S.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Radiocarbon dating of grass-tempered ceramic reveals
+  the earliest pottery from slovakia predates the arrival of farming}.
+\newblock \bibinfo{journal}{Radiocarbon} ,
+  \bibinfo{pages}{1--21}\DOIprefix\doi{10.1017/RDC.2023.39}.
+%Type = Article
+\bibitem[{Tsoupra et~al.(2022)Tsoupra, Clist, {da Concei{\c c}{\~a}o Lopes},
+  Moita, Barrulas, {da Piedade de Jesus}, {da Silva Domingos}, Bostoen and
+  Mirao}]{Tsoupra.2022}
+\bibinfo{author}{Tsoupra, A.}, \bibinfo{author}{Clist, B.},
+  \bibinfo{author}{{da Concei{\c c}{\~a}o Lopes}, M.}, \bibinfo{author}{Moita,
+  P.}, \bibinfo{author}{Barrulas, P.}, \bibinfo{author}{{da Piedade de Jesus},
+  M.}, \bibinfo{author}{{da Silva Domingos}, S.}, \bibinfo{author}{Bostoen,
+  K.}, \bibinfo{author}{Mirao, J.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{A multi-analytical characterization of fourteenth to
+  eighteenth century pottery from the {{Kongo}} kingdom, {{Central Africa}}}.
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{12},
+  \bibinfo{pages}{9943}.
+\newblock \DOIprefix\doi{10.1038/s41598-022-14089-x}.
+%Type = Book
+\bibitem[{Venables and Ripley(2002)}]{Venables.2002}
+\bibinfo{author}{Venables, W.N.}, \bibinfo{author}{Ripley, B.D.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Modern Applied Statistics with {{S}}}.
+\newblock \bibinfo{edition}{4} ed., \bibinfo{publisher}{Springer},
+  \bibinfo{address}{New York}.
+%Type = Article
+\bibitem[{Villagran et~al.(2022)Villagran, Alves, Kater, da~Silva, Batalla,
+  da~Costa, Costa, Erler, Ferreira, Magon, dos Reys, Straioto, Tognoli,
+  Strauss, del Lama, Martins, {Teixeira-Bastos}, Neves, Zimpel and
+  Pugliese}]{Villagran.2022}
+\bibinfo{author}{Villagran, X.S.}, \bibinfo{author}{Alves, M.L.},
+  \bibinfo{author}{Kater, T.}, \bibinfo{author}{da~Silva, K.B.V.},
+  \bibinfo{author}{Batalla, N.}, \bibinfo{author}{da~Costa, M.},
+  \bibinfo{author}{Costa, J.}, \bibinfo{author}{Erler, D.M.A.},
+  \bibinfo{author}{Ferreira, M.P.}, \bibinfo{author}{Magon, P.},
+  \bibinfo{author}{dos Reys, A.C.}, \bibinfo{author}{Straioto, H.},
+  \bibinfo{author}{Tognoli, A.R.}, \bibinfo{author}{Strauss, A.},
+  \bibinfo{author}{del Lama, E.A.}, \bibinfo{author}{Martins, L.},
+  \bibinfo{author}{{Teixeira-Bastos}, M.}, \bibinfo{author}{Neves, E.G.},
+  \bibinfo{author}{Zimpel, C.}, \bibinfo{author}{Pugliese, F.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{{Petrografia de cer{\^a}micas da fase Bacabal
+  (sambaqui Monte Castelo): um dos mais antigos usos de cauixi na
+  Amaz{\^o}nia}}.
+\newblock \bibinfo{journal}{Boletim do Museu Paraense Em{\'i}lio Goeldi.
+  Ci{\^e}ncias Humanas} \bibinfo{volume}{17}, \bibinfo{pages}{e20200120}.
+\newblock \DOIprefix\doi{10.1590/2178-2547-bgoeldi-2020-0120}.
+%Type = Article
+\bibitem[{Vlassenbroeck et~al.(2007)Vlassenbroeck, Dierick, Masschaele, Cnudde,
+  Van~Hoorebeke and Jacobs}]{Vlassenbroeck.2007}
+\bibinfo{author}{Vlassenbroeck, J.}, \bibinfo{author}{Dierick, M.},
+  \bibinfo{author}{Masschaele, B.}, \bibinfo{author}{Cnudde, V.},
+  \bibinfo{author}{Van~Hoorebeke, L.}, \bibinfo{author}{Jacobs, P.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Software tools for quantification of {{X-ray}}
+  microtomography at the {{UGCT}}}.
+\newblock \bibinfo{journal}{Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
+  \bibinfo{volume}{580}, \bibinfo{pages}{442--445}.
+\newblock \DOIprefix\doi{10.1016/j.nima.2007.05.073}.
+%Type = Incollection
+\bibitem[{Whitbread(2001)}]{Whitbread.2001}
+\bibinfo{author}{Whitbread, I.K.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Ceramic {{Petrology}}, {{Clay Geochemistry}} and
+  {{Ceramic Productionfrom Technology}} to the {{Mind}} of the {{Potter}}}, in:
+  \bibinfo{editor}{Brothwell, D.R.}, \bibinfo{editor}{Pollard, A.M.} (Eds.),
+  \bibinfo{booktitle}{Handbook of Archaeological Sciences}.
+  \bibinfo{publisher}{J. Wiley}, \bibinfo{address}{Chichester ; New York}, pp.
+  \bibinfo{pages}{449--459}.
+%Type = Book
+\bibitem[{White(1983)}]{White.1983}
+\bibinfo{author}{White, F.}, \bibinfo{year}{1983}.
+\newblock \bibinfo{title}{The Vegetation of {{Africa}}. {{A}} Descriptive
+  Memoir to Accompany the {{Unesco}} / {{AETFAT}}/ {{UNSO}} Vegetation Map of
+  {{Africa}}}.
+\newblock \bibinfo{publisher}{Zenodo}.
+%Type = Incollection
+\bibitem[{Wotzka(1991)}]{Wotzka.1991}
+\bibinfo{author}{Wotzka, H.P.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{Keramikbrand im offenen {{Feuer}}: {{Vergleichende
+  Analyse}} pyrometrischer~{{Daten}} aus dem {{T{\"o}pferdorf Ikenge}}
+  ({{{\"A}quatorregion}}, {{Za{\"i}re}})}, in: \bibinfo{editor}{L{\"u}dtke,
+  H.}, \bibinfo{editor}{Vossen, R.} (Eds.),
+  \bibinfo{booktitle}{T{\"o}pfereiforschung -- Arch{\"a}ologisch, Ethnologisch,
+  Volkskundlich}. \bibinfo{publisher}{R. Habelt}, \bibinfo{address}{Bonn}.
+  T{\"o}pferei- Und {{Keramikforschung}}, pp. \bibinfo{pages}{289--318}.
+%Type = Book
+\bibitem[{Wotzka(1995)}]{Wotzka.1995}
+\bibinfo{author}{Wotzka, H.P.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{Studien zur Arch{\"a}ologie des zentralafrikanischen
+  Regenwaldes: Die Keramik des inneren Za{\"i}re-Beckens und ihre Stellung im
+  Kontext der Bantu-Expansion}}. volume~\bibinfo{volume}{6} of
+  \textit{\bibinfo{series}{{Africa Praehistorica}}}.
+\newblock \bibinfo{publisher}{Heinrich-Barth-Institut},
+  \bibinfo{address}{K{\"o}ln}.
+%Type = Book
+\bibitem[{Yardley et~al.(1990)Yardley, MacKenzie and Guilford}]{Yardley.1990}
+\bibinfo{author}{Yardley, B.W.D.}, \bibinfo{author}{MacKenzie, W.S.},
+  \bibinfo{author}{Guilford, C.}, \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Atlas of Metamorphic Rocks and Their Textures}.
+\newblock \bibinfo{publisher}{{Longman scientific and technical}},
+  \bibinfo{address}{Harlow (GB)}.
+
+\end{thebibliography}

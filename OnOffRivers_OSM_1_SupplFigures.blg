@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: OnOffRivers_OSM_1_SupplFigures.aux
+The style file: abbrvnat.bst
+Illegal, another \bibstyle command---line 8 of file OnOffRivers_OSM_1_SupplFigures.aux
+ : \bibstyle
+ :          {plainnat}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 55 of file OnOffRivers_OSM_1_SupplFigures.aux
+ : \bibstyle
+ :          {elsarticle-harv}
+I'm skipping whatever remains of this command
+Database file #1: bib.bib
+You've used 9 entries,
+            2773 wiz_defined-function locations,
+            677 strings with 6991 characters,
+and the built_in function-call counts, 4211 in all, are:
+= -- 382
+> -- 222
+< -- 11
++ -- 76
+- -- 67
+* -- 321
+:= -- 658
+add.period$ -- 37
+call.type$ -- 9
+change.case$ -- 45
+chr.to.int$ -- 9
+cite$ -- 18
+duplicate$ -- 197
+empty$ -- 351
+format.name$ -- 80
+if$ -- 894
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 10
+newline$ -- 60
+num.names$ -- 40
+pop$ -- 101
+preamble$ -- 1
+purify$ -- 39
+quote$ -- 0
+skip$ -- 150
+stack$ -- 0
+substring$ -- 130
+swap$ -- 31
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 0
+while$ -- 39
+width$ -- 0
+write$ -- 143
+(There were 2 error messages)

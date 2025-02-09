@@ -1,0 +1,2950 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.23)  4 FEB 2025 12:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**OnOffRivers_OSM_3_Petrography.tex
+(./OnOffRivers_OSM_3_Petrography.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+(c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count271
+\float@exts=\toks19
+\float@box=\box52
+\@float@everytoks=\toks20
+\@floatcapt=\box53
+)
+(c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/10/20 v24.12 The multilingual framework for pdfLaTeX, LuaLa
+TeX and XeLaTeX
+\babel@savecnt=\count272
+\U@D=\dimen152
+\l@unhyphenated=\language89
+
+(c:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count273
+
+(c:/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 108.
+))
+(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count274
+)
+(c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen153
+\captionmargin=\dimen154
+\caption@leftmargin=\dimen155
+\caption@rightmargin=\dimen156
+\caption@width=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count275
+\c@continuedfloat=\count276
+Package caption Info: float package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count277
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count278
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count279
+)
+(c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count280
+)
+(c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count281
+\Hy@pagecounter=\count282
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count283
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count284
+
+(c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen162
+
+(c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count285
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count286
+\c@Item=\count287
+\c@Hfootnote=\count288
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count289
+\c@bookmark@seq@number=\count290
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip53
+)
+(c:/texlive/2024/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count291
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count292
+\c@pgf@countb=\count293
+\c@pgf@countc=\count294
+\c@pgf@countd=\count295
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count296
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count297
+\pgfsyssoftpath@bigbuffer@items=\count298
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count299
+\pgfmath@box=\box55
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count300
+))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count301
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen196
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen256
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count302
+\pgf@shadingcount=\count303
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count304
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count305
+\tikznumberofchildren=\count306
+\tikznumberofcurrentchild=\count307
+\tikz@fig@count=\count308
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count309
+\pgfmatrixcurrentcolumn=\count310
+\pgf@matrix@numberofcolumns=\count311
+)
+\tikz@expandcount=\count312
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count313
+\calc@Bcount=\count314
+\calc@Adimen=\dimen271
+\calc@Bdimen=\dimen272
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count315
+\calc@Cskip=\skip56
+)
+\c@@todonotes@numberoftodonotes=\count316
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count317
+\mult@box=\box65
+\multicol@leftmargin=\dimen273
+\c@unbalance=\count318
+\c@collectmore=\count319
+\doublecol@number=\count320
+\multicoltolerance=\count321
+\multicolpretolerance=\count322
+\full@width=\dimen274
+\page@free=\dimen275
+\premulticols=\dimen276
+\postmulticols=\dimen277
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box66
+\last@line=\box67
+\mc@boxedresult=\box68
+\maxbalancingoverflow=\dimen278
+\mult@rightbox=\box69
+\mult@grightbox=\box70
+\mult@firstbox=\box71
+\mult@gfirstbox=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\c@minrows=\count323
+\c@columnbadness=\count324
+\c@finalcolumnbadness=\count325
+\last@try=\dimen279
+\multicolovershoot=\dimen280
+\multicolundershoot=\dimen281
+\mult@nat@firstbox=\box109
+\colbreak@box=\box110
+\mc@col@check@num=\count326
+)
+(c:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box111
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen282
+\ttl@minus=\dimen283
+\ttl@toksa=\toks35
+\titlewidth=\dimen284
+\titlewidthlast=\dimen285
+\titlewidthfirst=\dimen286
+)
+(c:/texlive/2024/texmf-dist/tex/latex/tools/xr.sty
+Package: xr 2024-04-10 v6.00 eXternal References (DPC)
+)
+Package xr Info: IMPORTING LABELS FROM OnOffRivers_0_Paper.aux on input line 31
+.
+Package xr Info: IMPORTING LABELS FROM OnOffRivers_OSM_1_SupplFigures.aux on in
+put line 32.
+
+
+Package natbib Warning: Citation `Cau.2004' multiply defined.
+
+
+Package natbib Warning: Citation `Geyh.1990' multiply defined.
+
+
+Package natbib Warning: Citation `Gosselain.2005' multiply defined.
+
+
+Package natbib Warning: Citation `Persits.1997' multiply defined.
+
+
+Package natbib Warning: Citation `Seidensticker.2021e' multiply defined.
+
+
+Package natbib Warning: Citation `Whitbread.2001' multiply defined.
+
+
+Package natbib Warning: Citation `Wotzka.1995' multiply defined.
+
+Package xr Info: IMPORTING LABELS FROM OnOffRivers_OSM_2_Sites.aux on input lin
+e 33.
+
+Package natbib Warning: Citation `Eggert.1992' multiply defined.
+
+
+Package natbib Warning: Citation `Eggert.1993' multiply defined.
+
+
+Package natbib Warning: Citation `Seidensticker.2021e' multiply defined.
+
+
+Package natbib Warning: Citation `Seidensticker.2024' multiply defined.
+
+
+Package natbib Warning: Citation `Wotzka.1995' multiply defined.
+
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count327
+\l__pdf_internal_box=\box112
+)
+(./OnOffRivers_OSM_3_Petrography.aux
+
+Package natbib Warning: Citation `MacKenzie.2017' multiply defined.
+
+
+Package natbib Warning: Citation `Quinn.2022' multiply defined.
+
+
+Package natbib Warning: Citation `Seidensticker.2021e' multiply defined.
+
+
+Package natbib Warning: Citation `Wotzka.1995' multiply defined.
+
+)
+\openout1 = `OnOffRivers_OSM_3_Petrography.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count328
+\scratchdimen=\dimen287
+\scratchbox=\box113
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen288
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks37
+) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 38.
+
+(./OnOffRivers_OSM_3_Petrography.out) (./OnOffRivers_OSM_3_Petrography.out)
+\@outlinefile=\write4
+\openout4 = `OnOffRivers_OSM_3_Petrography.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 43.
+
+(./OnOffRivers_OSM_3_Petrography.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write5
+\openout5 = `OnOffRivers_OSM_3_Petrography.toc'.
+
+
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/10 The sam-ple shows a ho-mo-ge-neous non-
+ []
+
+<ThinSections/11-2_4x_PPL.jpg, id=380, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/11-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/11-2_4x_PPL.jpg  used on input line 62.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/11-2_4x_XPL.jpg, id=381, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/11-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/11-2_4x_XPL.jpg  used on input line 66.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/11-8_20x_PPL.jpg, id=382, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-8_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/11-8_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/11-8_20x_PPL.jpg  used on input line 70.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/11-8_20x_XPL.jpg, id=383, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-8_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/11-8_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/11-8_20x_XPL.jpg  used on input line 74.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/11-6_20x_XPL.jpg, id=384, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-6_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/11-6_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/11-6_20x_XPL.jpg  used on input line 78.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/11-5_40x_PPL.jpg, id=385, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-5_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/11-5_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/11-5_40x_PPL.jpg  used on input line 82.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/11-4_40x_PPL.jpg, id=386, 1927.2pt x 1446.90562pt>
+File: ThinSections/11-4_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/11-4_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/11-4_40x_PPL.jpg  used on input line 86.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[3 <./ThinSections/11-2_4x_PPL.jpg> <./ThinSections/11-2_4x_XPL.jpg> <./ThinSec
+tions/11-8_20x_PPL.jpg> <./ThinSections/11-8_20x_XPL.jpg> <./ThinSections/11-6_
+20x_XPL.jpg> <./ThinSections/11-5_40x_PPL.jpg> <./ThinSections/11-4_40x_PPL.jpg
+>]
+<ThinSections/55-4_4x_PPL.jpg, id=395, 1927.2pt x 1446.90562pt>
+File: ThinSections/55-4_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/55-4_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/55-4_4x_PPL.jpg  used on input line 105.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/55-4_4x_XPL.jpg, id=396, 1927.2pt x 1446.90562pt>
+File: ThinSections/55-4_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/55-4_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/55-4_4x_XPL.jpg  used on input line 109.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/55_10x_PPL.jpg, id=397, 1796.96344pt x 1349.04pt>
+File: ThinSections/55_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/55_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/55_10x_PPL.jpg  used on input line 113.
+(pdftex.def)             Requested size: 209.1301pt x 156.99925pt.
+<ThinSections/55_10x_XPL.jpg, id=398, 1796.96344pt x 1349.04pt>
+File: ThinSections/55_10x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/55_10x_XPL.jpg>
+Package pdftex.def Info: ThinSections/55_10x_XPL.jpg  used on input line 117.
+(pdftex.def)             Requested size: 209.1301pt x 156.99925pt.
+
+
+[4 <./ThinSections/55-4_4x_PPL.jpg> <./ThinSections/55-4_4x_XPL.jpg> <./ThinSec
+tions/55_10x_PPL.jpg> <./ThinSections/55_10x_XPL.jpg>]
+<ThinSections/10-8_4x_PPL.jpg, id=404, 1927.2pt x 1446.90562pt>
+File: ThinSections/10-8_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/10-8_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/10-8_4x_PPL.jpg  used on input line 153.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/10-8_4x_XPL.jpg, id=405, 1927.2pt x 1446.90562pt>
+File: ThinSections/10-8_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/10-8_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/10-8_4x_XPL.jpg  used on input line 157.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/10-2_4x_PPL.jpg, id=406, 1927.2pt x 1446.90562pt>
+File: ThinSections/10-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/10-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/10-2_4x_PPL.jpg  used on input line 161.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/10-2_20x_PPL.jpg, id=407, 1927.2pt x 1446.90562pt>
+File: ThinSections/10-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/10-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/10-2_20x_PPL.jpg  used on input line 169.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/10-5_40x_XPL.jpg, id=408, 1927.2pt x 1446.90562pt>
+File: ThinSections/10-5_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/10-5_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/10-5_40x_XPL.jpg  used on input line 173.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[5 <./ThinSections/10-8_4x_PPL.jpg> <./ThinSections/10-8_4x_XPL.jpg> <./ThinSec
+tions/10-2_4x_PPL.jpg> <./ThinSections/10-2_20x_PPL.jpg> <./ThinSections/10-5_4
+0x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 188.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 188.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 188.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 188.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 188.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 188.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 188.
+
+<ThinSections/4-1_4x_PPL.jpg, id=417, 1927.2pt x 1446.90562pt>
+File: ThinSections/4-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/4-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/4-1_4x_PPL.jpg  used on input line 203.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/4-1_4x_XPL.jpg, id=418, 1927.2pt x 1446.90562pt>
+File: ThinSections/4-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/4-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/4-1_4x_XPL.jpg  used on input line 207.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/4-2_40x_PPL.jpg, id=419, 1927.2pt x 1446.90562pt>
+File: ThinSections/4-2_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/4-2_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/4-2_40x_PPL.jpg  used on input line 215.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+<ThinSections/4-2_40x_XPL.jpg, id=420, 1927.2pt x 1446.90562pt>
+File: ThinSections/4-2_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/4-2_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/4-2_40x_XPL.jpg  used on input line 219.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+<ThinSections/4-4_20x_XPL.jpg, id=421, 1927.2pt x 1446.90562pt>
+File: ThinSections/4-4_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/4-4_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/4-4_20x_XPL.jpg  used on input line 223.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+<ThinSections/4-5_40x_XPL.jpg, id=422, 1927.2pt x 1446.90562pt>
+File: ThinSections/4-5_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/4-5_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/4-5_40x_XPL.jpg  used on input line 231.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+
+
+[6 <./ThinSections/4-1_4x_PPL.jpg> <./ThinSections/4-1_4x_XPL.jpg> <./ThinSecti
+ons/4-2_40x_PPL.jpg> <./ThinSections/4-2_40x_XPL.jpg> <./ThinSections/4-4_20x_X
+PL.jpg> <./ThinSections/4-5_40x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 246.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 246.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 246.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 246.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 246.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 246.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 246.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+\OT1/cmr/m/n/10 The sec-tion shows a ho-mo-ge-neous non-
+ []
+
+<ThinSections/5-1_4x_PPL.jpg, id=432, 1927.2pt x 1446.90562pt>
+File: ThinSections/5-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/5-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/5-1_4x_PPL.jpg  used on input line 258.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/5-1_4x_XPL.jpg, id=433, 1927.2pt x 1446.90562pt>
+File: ThinSections/5-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/5-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/5-1_4x_XPL.jpg  used on input line 262.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/5-2_20x_PPL.jpg, id=434, 1927.2pt x 1446.90562pt>
+File: ThinSections/5-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/5-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/5-2_20x_PPL.jpg  used on input line 266.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/5-2_20x_XPL.jpg, id=435, 1927.2pt x 1446.90562pt>
+File: ThinSections/5-2_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/5-2_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/5-2_20x_XPL.jpg  used on input line 270.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[7 <./ThinSections/5-1_4x_PPL.jpg> <./ThinSections/5-1_4x_XPL.jpg> <./ThinSecti
+ons/5-2_20x_PPL.jpg> <./ThinSections/5-2_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 277.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\OT1/cmr/m/n/10 The fine frac-tion is ho-mo-ge-neous, non-
+ []
+
+<ThinSections/56-1_4x_PPL.jpg, id=446, 1927.2pt x 1446.90562pt>
+File: ThinSections/56-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/56-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/56-1_4x_PPL.jpg  used on input line 290.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/56-1_4x_XPL.jpg, id=447, 1927.2pt x 1446.90562pt>
+File: ThinSections/56-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/56-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/56-1_4x_XPL.jpg  used on input line 294.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/56-2_4x_PPL.jpg, id=448, 1927.2pt x 1446.90562pt>
+File: ThinSections/56-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/56-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/56-2_4x_PPL.jpg  used on input line 298.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/56-2_4x_XPL.jpg, id=449, 1927.2pt x 1446.90562pt>
+File: ThinSections/56-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/56-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/56-2_4x_XPL.jpg  used on input line 302.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[8 <./ThinSections/56-1_4x_PPL.jpg> <./ThinSections/56-1_4x_XPL.jpg> <./ThinSec
+tions/56-2_4x_PPL.jpg> <./ThinSections/56-2_4x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 325.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 325.
+
+<ThinSections/54-1_4x_PPL.jpg, id=458, 1927.2pt x 1446.90562pt>
+File: ThinSections/54-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/54-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/54-1_4x_PPL.jpg  used on input line 335.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/54-1_4x_XPL.jpg, id=459, 1927.2pt x 1446.90562pt>
+File: ThinSections/54-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/54-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/54-1_4x_XPL.jpg  used on input line 339.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/54-6_10x_PPL.jpg, id=460, 1927.2pt x 1446.90562pt>
+File: ThinSections/54-6_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/54-6_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/54-6_10x_PPL.jpg  used on input line 343.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/54-3_20x_PPL.jpg, id=461, 1927.2pt x 1446.90562pt>
+File: ThinSections/54-3_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/54-3_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/54-3_20x_PPL.jpg  used on input line 351.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/54-3_20x_XPL.jpg, id=462, 1927.2pt x 1446.90562pt>
+File: ThinSections/54-3_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/54-3_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/54-3_20x_XPL.jpg  used on input line 355.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[9 <./ThinSections/54-1_4x_PPL.jpg> <./ThinSections/54-1_4x_XPL.jpg> <./ThinSec
+tions/54-6_10x_PPL.jpg> <./ThinSections/54-3_20x_PPL.jpg> <./ThinSections/54-3_
+20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 362.
+
+<ThinSections/6-1_4x_PPL.jpg, id=472, 1927.2pt x 1446.90562pt>
+File: ThinSections/6-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/6-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/6-1_4x_PPL.jpg  used on input line 374.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/6-1_4x_XPL.jpg, id=473, 1927.2pt x 1446.90562pt>
+File: ThinSections/6-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/6-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/6-1_4x_XPL.jpg  used on input line 378.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/6-3_4x_PPL.jpg, id=474, 1927.2pt x 1446.90562pt>
+File: ThinSections/6-3_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/6-3_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/6-3_4x_PPL.jpg  used on input line 382.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+<ThinSections/6-3_4x_XPL.jpg, id=475, 1927.2pt x 1446.90562pt>
+File: ThinSections/6-3_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/6-3_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/6-3_4x_XPL.jpg  used on input line 386.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+<ThinSections/6-5_4x_PPL.jpg, id=476, 1927.2pt x 1446.90562pt>
+File: ThinSections/6-5_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/6-5_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/6-5_4x_PPL.jpg  used on input line 390.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+<ThinSections/6-5_4x_XPL.jpg, id=477, 1927.2pt x 1446.90562pt>
+File: ThinSections/6-5_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/6-5_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/6-5_4x_XPL.jpg  used on input line 394.
+(pdftex.def)             Requested size: 102.43227pt x 76.89758pt.
+
+
+[10 <./ThinSections/6-1_4x_PPL.jpg> <./ThinSections/6-1_4x_XPL.jpg> <./ThinSect
+ions/6-3_4x_PPL.jpg> <./ThinSections/6-3_4x_XPL.jpg> <./ThinSections/6-5_4x_PPL
+.jpg> <./ThinSections/6-5_4x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 417.
+
+<ThinSections/53-1_4x_PPL.jpg, id=486, 1927.2pt x 1446.90562pt>
+File: ThinSections/53-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/53-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/53-1_4x_PPL.jpg  used on input line 427.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/53-1_4x_XPL.jpg, id=487, 1927.2pt x 1446.90562pt>
+File: ThinSections/53-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/53-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/53-1_4x_XPL.jpg  used on input line 431.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/53-2_20x_PPL.jpg, id=488, 1927.2pt x 1446.90562pt>
+File: ThinSections/53-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/53-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/53-2_20x_PPL.jpg  used on input line 435.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/53-3_20x_PPL.jpg, id=489, 1927.2pt x 1446.90562pt>
+File: ThinSections/53-3_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/53-3_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/53-3_20x_PPL.jpg  used on input line 443.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/53-3_20x_XPL.jpg, id=490, 1927.2pt x 1446.90562pt>
+File: ThinSections/53-3_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/53-3_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/53-3_20x_XPL.jpg  used on input line 447.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[11 <./ThinSections/53-1_4x_PPL.jpg> <./ThinSections/53-1_4x_XPL.jpg> <./ThinSe
+ctions/53-2_20x_PPL.jpg> <./ThinSections/53-3_20x_PPL.jpg> <./ThinSections/53-3
+_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 462.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 462.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 462.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 462.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 462.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 462.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 462.
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 465--466
+\OT1/cmr/m/n/10 The sam-ple shows a ho-mo-ge-neous, non-
+ []
+
+<ThinSections/99-1_4x_PPL.jpg, id=499, 1927.2pt x 1446.90562pt>
+File: ThinSections/99-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/99-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/99-1_4x_PPL.jpg  used on input line 472.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/99-1_4x_XPL.jpg, id=500, 1927.2pt x 1446.90562pt>
+File: ThinSections/99-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/99-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/99-1_4x_XPL.jpg  used on input line 476.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/99-1_20x_PPL.jpg, id=501, 1927.2pt x 1446.90562pt>
+File: ThinSections/99-1_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/99-1_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/99-1_20x_PPL.jpg  used on input line 480.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/99-2_20x_PPL.jpg, id=502, 1927.2pt x 1446.90562pt>
+File: ThinSections/99-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/99-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/99-2_20x_PPL.jpg  used on input line 484.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/99-4_10x_PPL.jpg, id=503, 1927.2pt x 1446.90562pt>
+File: ThinSections/99-4_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/99-4_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/99-4_10x_PPL.jpg  used on input line 488.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[12 <./ThinSections/99-1_4x_PPL.jpg> <./ThinSections/99-1_4x_XPL.jpg> <./ThinSe
+ctions/99-1_20x_PPL.jpg> <./ThinSections/99-2_20x_PPL.jpg> <./ThinSections/99-4
+_10x_PPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 495.
+
+<ThinSections/98-1_4x_PPL.jpg, id=512, 1927.2pt x 1446.90562pt>
+File: ThinSections/98-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/98-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/98-1_4x_PPL.jpg  used on input line 505.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/98-1_4x_XPL.jpg, id=513, 1927.2pt x 1446.90562pt>
+File: ThinSections/98-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/98-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/98-1_4x_XPL.jpg  used on input line 509.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/98-3_40x_PPL.jpg, id=514, 1927.2pt x 1446.90562pt>
+File: ThinSections/98-3_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/98-3_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/98-3_40x_PPL.jpg  used on input line 513.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/98-5_20x_PPL.jpg, id=515, 1927.2pt x 1446.90562pt>
+File: ThinSections/98-5_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/98-5_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/98-5_20x_PPL.jpg  used on input line 517.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/98-5_20x_XPL.jpg, id=516, 1927.2pt x 1446.90562pt>
+File: ThinSections/98-5_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/98-5_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/98-5_20x_XPL.jpg  used on input line 521.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[13 <./ThinSections/98-1_4x_PPL.jpg> <./ThinSections/98-1_4x_XPL.jpg> <./ThinSe
+ctions/98-3_40x_PPL.jpg> <./ThinSections/98-5_20x_PPL.jpg> <./ThinSections/98-5
+_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 544.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 544.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 544.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 544.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 544.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 544.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 544.
+
+<ThinSections/97-1_4x_PPL.jpg, id=527, 1927.2pt x 1446.90562pt>
+File: ThinSections/97-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/97-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/97-1_4x_PPL.jpg  used on input line 554.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/97-1_4x_XPL.jpg, id=528, 1927.2pt x 1446.90562pt>
+File: ThinSections/97-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/97-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/97-1_4x_XPL.jpg  used on input line 558.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/97-4_10x_PPL.jpg, id=529, 1927.2pt x 1446.90562pt>
+File: ThinSections/97-4_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/97-4_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/97-4_10x_PPL.jpg  used on input line 562.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+Underfull \hbox (badness 1178) in paragraph at lines 563--563
+[]\OT1/cmr/m/n/9 (c) |Rem-nants of charred plant
+ []
+
+<ThinSections/97-3_10x_XPL.jpg, id=530, 1927.2pt x 1446.90562pt>
+File: ThinSections/97-3_10x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/97-3_10x_XPL.jpg>
+Package pdftex.def Info: ThinSections/97-3_10x_XPL.jpg  used on input line 570.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/97-6_10x_XPL.jpg, id=531, 2601.72pt x 1951.29pt>
+File: ThinSections/97-6_10x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/97-6_10x_XPL.jpg>
+Package pdftex.def Info: ThinSections/97-6_10x_XPL.jpg  used on input line 594.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+
+
+[14 <./ThinSections/97-1_4x_PPL.jpg> <./ThinSections/97-1_4x_XPL.jpg> <./ThinSe
+ctions/97-4_10x_PPL.jpg> <./ThinSections/97-3_10x_XPL.jpg> <./ThinSections/97-6
+_10x_XPL.jpg>]
+<ThinSections/9-1_4x_PPL.jpg, id=537, 1927.2pt x 1446.90562pt>
+File: ThinSections/9-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/9-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/9-1_4x_PPL.jpg  used on input line 611.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/9-1_4x_XPL.jpg, id=538, 1927.2pt x 1446.90562pt>
+File: ThinSections/9-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/9-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/9-1_4x_XPL.jpg  used on input line 615.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/9-2_4x_PPL.jpg, id=539, 1927.2pt x 1446.90562pt>
+File: ThinSections/9-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/9-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/9-2_4x_PPL.jpg  used on input line 619.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/9-2_4x_XPL.jpg, id=540, 1927.2pt x 1446.90562pt>
+File: ThinSections/9-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/9-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/9-2_4x_XPL.jpg  used on input line 623.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[15 <./ThinSections/9-1_4x_PPL.jpg> <./ThinSections/9-1_4x_XPL.jpg> <./ThinSect
+ions/9-2_4x_PPL.jpg> <./ThinSections/9-2_4x_XPL.jpg>]
+<ThinSections/57-5_4x_PPL.jpg, id=547, 1927.2pt x 1446.90562pt>
+File: ThinSections/57-5_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/57-5_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/57-5_4x_PPL.jpg  used on input line 655.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/57-5_4x_XPL.jpg, id=548, 1927.2pt x 1446.90562pt>
+File: ThinSections/57-5_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/57-5_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/57-5_4x_XPL.jpg  used on input line 659.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/57-6_10x_PPL.jpg, id=549, 1927.2pt x 1446.90562pt>
+File: ThinSections/57-6_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/57-6_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/57-6_10x_PPL.jpg  used on input line 663.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/57-6_10x_XPL.jpg, id=550, 1927.2pt x 1446.90562pt>
+File: ThinSections/57-6_10x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/57-6_10x_XPL.jpg>
+Package pdftex.def Info: ThinSections/57-6_10x_XPL.jpg  used on input line 667.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[16 <./ThinSections/57-5_4x_PPL.jpg> <./ThinSections/57-5_4x_XPL.jpg> <./ThinSe
+ctions/57-6_10x_PPL.jpg> <./ThinSections/57-6_10x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 676.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 676.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 676.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 676.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 676.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 676.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 676.
+
+<ThinSections/3-1_4x_PPL.jpg, id=559, 1927.2pt x 1446.90562pt>
+File: ThinSections/3-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/3-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/3-1_4x_PPL.jpg  used on input line 686.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/3-1_4x_XPL.jpg, id=560, 1927.2pt x 1446.90562pt>
+File: ThinSections/3-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/3-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/3-1_4x_XPL.jpg  used on input line 690.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/3-3a_20x_PPL.jpg, id=561, 2601.72pt x 1951.29pt>
+File: ThinSections/3-3a_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/3-3a_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/3-3a_20x_PPL.jpg  used on input line 694.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+<ThinSections/3-3a_20x_XPL.jpg, id=562, 2601.72pt x 1951.29pt>
+File: ThinSections/3-3a_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/3-3a_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/3-3a_20x_XPL.jpg  used on input line 698.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+
+
+[17 <./ThinSections/3-1_4x_PPL.jpg> <./ThinSections/3-1_4x_XPL.jpg> <./ThinSect
+ions/3-3a_20x_PPL.jpg> <./ThinSections/3-3a_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 705.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 705.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 705.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 705.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 705.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 705.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 705.
+
+<ThinSections/2-1_4x_PPL.jpg, id=572, 1927.2pt x 1446.90562pt>
+File: ThinSections/2-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/2-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/2-1_4x_PPL.jpg  used on input line 715.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/2-1_4x_XPL.jpg, id=573, 1927.2pt x 1446.90562pt>
+File: ThinSections/2-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/2-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/2-1_4x_XPL.jpg  used on input line 719.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/2-3_20x_PPL.jpg, id=574, 2601.72pt x 1951.29pt>
+File: ThinSections/2-3_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/2-3_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/2-3_20x_PPL.jpg  used on input line 723.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/2-3_20x_XPL.jpg, id=575, 2601.72pt x 1951.29pt>
+File: ThinSections/2-3_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/2-3_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/2-3_20x_XPL.jpg  used on input line 727.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/2-2_40x_XPL.jpg, id=576, 2601.72pt x 1951.29pt>
+File: ThinSections/2-2_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/2-2_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/2-2_40x_XPL.jpg  used on input line 735.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+
+
+[18 <./ThinSections/2-1_4x_PPL.jpg> <./ThinSections/2-1_4x_XPL.jpg> <./ThinSect
+ions/2-3_20x_PPL.jpg> <./ThinSections/2-3_20x_XPL.jpg> <./ThinSections/2-2_40x_
+XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 742.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 742.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 742.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 742.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 742.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 742.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 742.
+
+<ThinSections/104-1_4x_PPL.jpg, id=586, 1927.2pt x 1446.90562pt>
+File: ThinSections/104-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/104-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/104-1_4x_PPL.jpg  used on input line 752.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/104-1_4x_XPL.jpg, id=587, 1927.2pt x 1446.90562pt>
+File: ThinSections/104-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/104-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/104-1_4x_XPL.jpg  used on input line 756.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/104-1_20x_PPL.jpg, id=588, 1927.2pt x 1446.90562pt>
+File: ThinSections/104-1_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/104-1_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/104-1_20x_PPL.jpg  used on input line 760
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/104-2_10x_PPL.jpg, id=589, 1927.2pt x 1446.90562pt>
+File: ThinSections/104-2_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/104-2_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/104-2_10x_PPL.jpg  used on input line 764
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/104-2_40x_PPL.jpg, id=590, 1927.2pt x 1446.90562pt>
+File: ThinSections/104-2_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/104-2_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/104-2_40x_PPL.jpg  used on input line 768
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[19 <./ThinSections/104-1_4x_PPL.jpg> <./ThinSections/104-1_4x_XPL.jpg> <./Thin
+Sections/104-1_20x_PPL.jpg> <./ThinSections/104-2_10x_PPL.jpg> <./ThinSections/
+104-2_40x_PPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 775.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 775.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 775.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 775.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 775.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 775.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 775.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--779
+\OT1/cmr/m/n/10 The sam-ple shows a ho-mo-ge-neous non-
+ []
+
+<ThinSections/105-1_4x_PPL.jpg, id=602, 1927.2pt x 1446.90562pt>
+File: ThinSections/105-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/105-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/105-1_4x_PPL.jpg  used on input line 785.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/105-1_4x_XPL.jpg, id=603, 1927.2pt x 1446.90562pt>
+File: ThinSections/105-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/105-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/105-1_4x_XPL.jpg  used on input line 789.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/105-2_4x_PPL.jpg, id=604, 1927.2pt x 1446.90562pt>
+File: ThinSections/105-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/105-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/105-2_4x_PPL.jpg  used on input line 793.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/105-2_4x_XPL.jpg, id=605, 1927.2pt x 1446.90562pt>
+File: ThinSections/105-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/105-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/105-2_4x_XPL.jpg  used on input line 797.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[20 <./ThinSections/105-1_4x_PPL.jpg> <./ThinSections/105-1_4x_XPL.jpg> <./Thin
+Sections/105-2_4x_PPL.jpg> <./ThinSections/105-2_4x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 804.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 804.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 804.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 804.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 804.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 804.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 804.
+
+<ThinSections/106-1_4x_PPL.jpg, id=615, 1927.2pt x 1446.90562pt>
+File: ThinSections/106-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/106-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/106-1_4x_PPL.jpg  used on input line 814.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/106-1_4x_XPL.jpg, id=616, 1927.2pt x 1446.90562pt>
+File: ThinSections/106-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/106-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/106-1_4x_XPL.jpg  used on input line 818.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/106-2_40x_PPL.jpg, id=617, 2601.72pt x 1951.29pt>
+File: ThinSections/106-2_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/106-2_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/106-2_40x_PPL.jpg  used on input line 822
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/106-2_40x_XPL.jpg, id=618, 2601.72pt x 1951.29pt>
+File: ThinSections/106-2_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/106-2_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/106-2_40x_XPL.jpg  used on input line 826
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/106-3_40x_PPL.jpg, id=619, 2601.72pt x 1951.29pt>
+File: ThinSections/106-3_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/106-3_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/106-3_40x_PPL.jpg  used on input line 830
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+
+
+[21 <./ThinSections/106-1_4x_PPL.jpg> <./ThinSections/106-1_4x_XPL.jpg> <./Thin
+Sections/106-2_40x_PPL.jpg> <./ThinSections/106-2_40x_XPL.jpg> <./ThinSections/
+106-3_40x_PPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 841.
+
+<ThinSections/107-1_4x_PPL.jpg, id=629, 1927.2pt x 1446.90562pt>
+File: ThinSections/107-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/107-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/107-1_4x_PPL.jpg  used on input line 851.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/107-1_4x_XPL.jpg, id=630, 1927.2pt x 1446.90562pt>
+File: ThinSections/107-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/107-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/107-1_4x_XPL.jpg  used on input line 855.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/107-2_20x_PPL.jpg, id=631, 2601.72pt x 1951.29pt>
+File: ThinSections/107-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/107-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/107-2_20x_PPL.jpg  used on input line 859
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+<ThinSections/107-2_20x_XPL.jpg, id=632, 2601.72pt x 1951.29pt>
+File: ThinSections/107-2_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/107-2_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/107-2_20x_XPL.jpg  used on input line 863
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+
+
+[22 <./ThinSections/107-1_4x_PPL.jpg> <./ThinSections/107-1_4x_XPL.jpg> <./Thin
+Sections/107-2_20x_PPL.jpg> <./ThinSections/107-2_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 874.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 874.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 874.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 874.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 874.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 874.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 874.
+
+<ThinSections/103-1_4x_PPL.jpg, id=642, 1927.2pt x 1446.90562pt>
+File: ThinSections/103-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/103-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/103-1_4x_PPL.jpg  used on input line 884.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/103-1_4x_XPL.jpg, id=643, 1927.2pt x 1446.90562pt>
+File: ThinSections/103-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/103-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/103-1_4x_XPL.jpg  used on input line 888.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/103-2_20x_PPL.jpg, id=644, 2601.72pt x 1951.29pt>
+File: ThinSections/103-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/103-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/103-2_20x_PPL.jpg  used on input line 892
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+<ThinSections/103-2_20x_XPL.jpg, id=645, 2601.72pt x 1951.29pt>
+File: ThinSections/103-2_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/103-2_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/103-2_20x_XPL.jpg  used on input line 896
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+
+
+[23 <./ThinSections/103-1_4x_PPL.jpg> <./ThinSections/103-1_4x_XPL.jpg> <./Thin
+Sections/103-2_20x_PPL.jpg> <./ThinSections/103-2_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 911.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 911.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 911.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 911.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 911.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 911.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 911.
+
+<ThinSections/100-1_4x_PPL.jpg, id=655, 1927.2pt x 1446.90562pt>
+File: ThinSections/100-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/100-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/100-1_4x_PPL.jpg  used on input line 921.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/100-1_4x_XPL.jpg, id=656, 1927.2pt x 1446.90562pt>
+File: ThinSections/100-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/100-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/100-1_4x_XPL.jpg  used on input line 925.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[24 <./ThinSections/100-1_4x_PPL.jpg> <./ThinSections/100-1_4x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 932.
+
+<ThinSections/102-1_4x_PPL.jpg, id=666, 1927.2pt x 1446.90562pt>
+File: ThinSections/102-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/102-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/102-1_4x_PPL.jpg  used on input line 942.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/102-1_4x_XPL.jpg, id=667, 1927.2pt x 1446.90562pt>
+File: ThinSections/102-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/102-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/102-1_4x_XPL.jpg  used on input line 946.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/102-2_20x_PPL.jpg, id=668, 2601.72pt x 1951.29pt>
+File: ThinSections/102-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/102-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/102-2_20x_PPL.jpg  used on input line 950
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+<ThinSections/102-2_20x_XPL.jpg, id=669, 2601.72pt x 1951.29pt>
+File: ThinSections/102-2_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/102-2_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/102-2_20x_XPL.jpg  used on input line 954
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+
+
+[25 <./ThinSections/102-1_4x_PPL.jpg> <./ThinSections/102-1_4x_XPL.jpg> <./Thin
+Sections/102-2_20x_PPL.jpg> <./ThinSections/102-2_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 961.
+
+<ThinSections/101-2_4x_PPL.jpg, id=680, 1927.2pt x 1446.90562pt>
+File: ThinSections/101-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/101-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/101-2_4x_PPL.jpg  used on input line 971.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/101-2_4x_XPL.jpg, id=681, 1927.2pt x 1446.90562pt>
+File: ThinSections/101-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/101-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/101-2_4x_XPL.jpg  used on input line 975.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/101-1_4x_PPL.jpg, id=682, 1927.2pt x 1446.90562pt>
+File: ThinSections/101-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/101-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/101-1_4x_PPL.jpg  used on input line 979.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/101-1_4x_XPL.jpg, id=683, 1927.2pt x 1446.90562pt>
+File: ThinSections/101-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/101-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/101-1_4x_XPL.jpg  used on input line 983.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[26 <./ThinSections/101-2_4x_PPL.jpg> <./ThinSections/101-2_4x_XPL.jpg> <./Thin
+Sections/101-1_4x_PPL.jpg> <./ThinSections/101-1_4x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 990.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 990.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 990.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 990.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 990.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 990.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 990.
+
+<ThinSections/109-1_4x_PPL.jpg, id=693, 1927.2pt x 1446.90562pt>
+File: ThinSections/109-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/109-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/109-1_4x_PPL.jpg  used on input line 1000
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/109-1_4x_XPL.jpg, id=694, 1927.2pt x 1446.90562pt>
+File: ThinSections/109-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/109-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/109-1_4x_XPL.jpg  used on input line 1004
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/109-2_20x_PPL.jpg, id=695, 2601.72pt x 1951.29pt>
+File: ThinSections/109-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/109-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/109-2_20x_PPL.jpg  used on input line 100
+8.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+<ThinSections/109-2_20x_XPL.jpg, id=696, 2601.72pt x 1951.29pt>
+File: ThinSections/109-2_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/109-2_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/109-2_20x_XPL.jpg  used on input line 101
+2.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+
+
+[27 <./ThinSections/109-1_4x_PPL.jpg> <./ThinSections/109-1_4x_XPL.jpg> <./Thin
+Sections/109-2_20x_PPL.jpg> <./ThinSections/109-2_20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1019.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1019.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1019.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1019.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1019.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1019.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1019.
+
+<ThinSections/110-1_4x_PPL.jpg, id=706, 1927.2pt x 1446.90562pt>
+File: ThinSections/110-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/110-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/110-1_4x_PPL.jpg  used on input line 1029
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/110-1_4x_XPL.jpg, id=707, 1927.2pt x 1446.90562pt>
+File: ThinSections/110-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/110-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/110-1_4x_XPL.jpg  used on input line 1033
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/110-3_40x_PPL.jpg, id=708, 2601.72pt x 1951.29pt>
+File: ThinSections/110-3_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/110-3_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/110-3_40x_PPL.jpg  used on input line 104
+5.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+<ThinSections/110-3_40x_XPL.jpg, id=709, 2601.72pt x 1951.29pt>
+File: ThinSections/110-3_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/110-3_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/110-3_40x_XPL.jpg  used on input line 104
+9.
+(pdftex.def)             Requested size: 209.1301pt x 156.82097pt.
+
+
+[28 <./ThinSections/110-1_4x_PPL.jpg> <./ThinSections/110-1_4x_XPL.jpg> <./Thin
+Sections/110-3_40x_PPL.jpg> <./ThinSections/110-3_40x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1056.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1056.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1056.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1056.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1056.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1056.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1056.
+
+<ThinSections/17-1_4x_PPL.jpg, id=719, 1927.2pt x 1446.90562pt>
+File: ThinSections/17-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/17-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/17-1_4x_PPL.jpg  used on input line 1066.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/17-1_4x_XPL.jpg, id=720, 1927.2pt x 1446.90562pt>
+File: ThinSections/17-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/17-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/17-1_4x_XPL.jpg  used on input line 1070.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/17-5_20x_PPL.jpg, id=721, 2601.72pt x 1951.29pt>
+File: ThinSections/17-5_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/17-5_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/17-5_20x_PPL.jpg  used on input line 1074
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/17-6_40x_PPL.jpg, id=722, 2601.72pt x 1951.29pt>
+File: ThinSections/17-6_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/17-6_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/17-6_40x_PPL.jpg  used on input line 1078
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/17-6_40x_XPL.jpg, id=723, 2601.72pt x 1951.29pt>
+File: ThinSections/17-6_40x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/17-6_40x_XPL.jpg>
+Package pdftex.def Info: ThinSections/17-6_40x_XPL.jpg  used on input line 1082
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+
+
+[29 <./ThinSections/17-1_4x_PPL.jpg> <./ThinSections/17-1_4x_XPL.jpg> <./ThinSe
+ctions/17-5_20x_PPL.jpg> <./ThinSections/17-6_40x_PPL.jpg> <./ThinSections/17-6
+_40x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1089.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1089.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1089.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1089.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1089.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1089.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1089.
+
+<ThinSections/108-1_4x_PPL.jpg, id=733, 1927.2pt x 1446.90562pt>
+File: ThinSections/108-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/108-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/108-1_4x_PPL.jpg  used on input line 1099
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/108-1_4x_XPL.jpg, id=734, 1927.2pt x 1446.90562pt>
+File: ThinSections/108-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/108-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/108-1_4x_XPL.jpg  used on input line 1103
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/108-3_20x_PPL.jpg, id=735, 2601.72pt x 1951.29pt>
+File: ThinSections/108-3_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/108-3_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/108-3_20x_PPL.jpg  used on input line 110
+7.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/108-3_20x_XPL.jpg, id=736, 2601.72pt x 1951.29pt>
+File: ThinSections/108-3_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/108-3_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/108-3_20x_XPL.jpg  used on input line 111
+1.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+<ThinSections/108-2_20x_PPL.jpg, id=737, 2601.72pt x 1951.29pt>
+File: ThinSections/108-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/108-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/108-2_20x_PPL.jpg  used on input line 111
+5.
+(pdftex.def)             Requested size: 136.57635pt x 102.42342pt.
+
+
+[30 <./ThinSections/108-1_4x_PPL.jpg> <./ThinSections/108-1_4x_XPL.jpg> <./Thin
+Sections/108-3_20x_PPL.jpg> <./ThinSections/108-3_20x_XPL.jpg> <./ThinSections/
+108-2_20x_PPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1124.
+
+<ThinSections/47-1_4x_PPL.jpg, id=748, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/47-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/47-1_4x_PPL.jpg  used on input line 1134.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/47-1_4x_XPL.jpg, id=749, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/47-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/47-1_4x_XPL.jpg  used on input line 1138.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/47-3_20x_PPL.jpg, id=750, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-3_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/47-3_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/47-3_20x_PPL.jpg  used on input line 1142
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/47-3_20x_XPL.jpg, id=751, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-3_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/47-3_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/47-3_20x_XPL.jpg  used on input line 1146
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/47-2_4x_PPL.jpg, id=752, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/47-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/47-2_4x_PPL.jpg  used on input line 1150.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/47-2a_20x_PPL.jpg, id=753, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-2a_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/47-2a_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/47-2a_20x_PPL.jpg  used on input line 115
+4.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/47-2b_20x_PPL.jpg, id=754, 1927.2pt x 1446.90562pt>
+File: ThinSections/47-2b_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/47-2b_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/47-2b_20x_PPL.jpg  used on input line 115
+8.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[31 <./ThinSections/47-1_4x_PPL.jpg> <./ThinSections/47-1_4x_XPL.jpg> <./ThinSe
+ctions/47-3_20x_PPL.jpg> <./ThinSections/47-3_20x_XPL.jpg> <./ThinSections/47-2
+_4x_PPL.jpg> <./ThinSections/47-2a_20x_PPL.jpg> <./ThinSections/47-2b_20x_PPL.j
+pg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1165.
+
+<ThinSections/48-1_4x_PPL.jpg, id=765, 1927.2pt x 1446.90562pt>
+File: ThinSections/48-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/48-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/48-1_4x_PPL.jpg  used on input line 1174.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/48-1_4x_XPL.jpg, id=766, 1927.2pt x 1446.90562pt>
+File: ThinSections/48-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/48-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/48-1_4x_XPL.jpg  used on input line 1178.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/48-2_4x_PPL.jpg, id=767, 1927.2pt x 1446.90562pt>
+File: ThinSections/48-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/48-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/48-2_4x_PPL.jpg  used on input line 1182.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/48-2_20x_PPL.jpg, id=768, 1927.2pt x 1446.90562pt>
+File: ThinSections/48-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/48-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/48-2_20x_PPL.jpg  used on input line 1186
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/48-6_20x_XPL.jpg, id=769, 1927.2pt x 1446.90562pt>
+File: ThinSections/48-6_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/48-6_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/48-6_20x_XPL.jpg  used on input line 1211
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+Underfull \hbox (badness 8038) in paragraph at lines 1212--1212
+[]\OT1/cmr/m/n/9 (e) |Mus-covite, tour-ma-line &
+ []
+
+
+
+[32 <./ThinSections/48-1_4x_PPL.jpg> <./ThinSections/48-1_4x_XPL.jpg> <./ThinSe
+ctions/48-2_4x_PPL.jpg> <./ThinSections/48-2_20x_PPL.jpg> <./ThinSections/48-6_
+20x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1226.
+
+<ThinSections/96-2_4x_PPL.jpg, id=778, 1927.2pt x 1446.90562pt>
+File: ThinSections/96-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/96-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/96-2_4x_PPL.jpg  used on input line 1237.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/96-2_4x_XPL.jpg, id=779, 1927.2pt x 1446.90562pt>
+File: ThinSections/96-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/96-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/96-2_4x_XPL.jpg  used on input line 1241.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/96-1_4x_PPL.jpg, id=780, 1927.2pt x 1446.90562pt>
+File: ThinSections/96-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/96-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/96-1_4x_PPL.jpg  used on input line 1245.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/96-6_4x_PPL.jpg, id=781, 1927.2pt x 1446.90562pt>
+File: ThinSections/96-6_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/96-6_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/96-6_4x_PPL.jpg  used on input line 1249.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/96-7_10x_PPL.jpg, id=782, 1927.2pt x 1446.90562pt>
+File: ThinSections/96-7_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/96-7_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/96-7_10x_PPL.jpg  used on input line 1253
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[33 <./ThinSections/96-2_4x_PPL.jpg> <./ThinSections/96-2_4x_XPL.jpg> <./ThinSe
+ctions/96-1_4x_PPL.jpg> <./ThinSections/96-6_4x_PPL.jpg> <./ThinSections/96-7_1
+0x_PPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1276.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1276.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1276.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1276.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1276.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1276.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1276.
+
+<ThinSections/49-1_4x_PPL.jpg, id=791, 1927.2pt x 1446.90562pt>
+File: ThinSections/49-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/49-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/49-1_4x_PPL.jpg  used on input line 1285.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/49-1_4x_XPL.jpg, id=792, 1927.2pt x 1446.90562pt>
+File: ThinSections/49-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/49-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/49-1_4x_XPL.jpg  used on input line 1289.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/49-2_20x_PPL.jpg, id=793, 1927.2pt x 1446.90562pt>
+File: ThinSections/49-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/49-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/49-2_20x_PPL.jpg  used on input line 1293
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[34 <./ThinSections/49-1_4x_PPL.jpg> <./ThinSections/49-1_4x_XPL.jpg> <./ThinSe
+ctions/49-2_20x_PPL.jpg>]
+<ThinSections/43-2_4x_PPL.jpg, id=800, 1927.2pt x 1446.90562pt>
+File: ThinSections/43-2_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/43-2_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/43-2_4x_PPL.jpg  used on input line 1311.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/43-2_4x_XPL.jpg, id=801, 1927.2pt x 1446.90562pt>
+File: ThinSections/43-2_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/43-2_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/43-2_4x_XPL.jpg  used on input line 1315.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/43-9_10x_PPL.jpg, id=802, 1927.2pt x 1446.90562pt>
+File: ThinSections/43-9_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/43-9_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/43-9_10x_PPL.jpg  used on input line 1335
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/43-3_20x_PPL.jpg, id=803, 1761.58125pt x 1322.69156pt>
+File: ThinSections/43-3_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/43-3_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/43-3_20x_PPL.jpg  used on input line 1339
+.
+(pdftex.def)             Requested size: 209.1301pt x 157.0208pt.
+
+
+[35 <./ThinSections/43-2_4x_PPL.jpg> <./ThinSections/43-2_4x_XPL.jpg> <./ThinSe
+ctions/43-9_10x_PPL.jpg> <./ThinSections/43-3_20x_PPL.jpg>]
+<ThinSections/42-1_4x_PPL.jpg, id=811, 1927.2pt x 1446.90562pt>
+File: ThinSections/42-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/42-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/42-1_4x_PPL.jpg  used on input line 1356.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/42-1_4x_XPL.jpg, id=812, 1927.2pt x 1446.90562pt>
+File: ThinSections/42-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/42-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/42-1_4x_XPL.jpg  used on input line 1360.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/42-4_20x_PPL.jpg, id=813, 1927.2pt x 1446.90562pt>
+File: ThinSections/42-4_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/42-4_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/42-4_20x_PPL.jpg  used on input line 1364
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/42-4_20x_XPL.jpg, id=814, 1927.2pt x 1446.90562pt>
+File: ThinSections/42-4_20x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/42-4_20x_XPL.jpg>
+Package pdftex.def Info: ThinSections/42-4_20x_XPL.jpg  used on input line 1368
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[36 <./ThinSections/42-1_4x_PPL.jpg> <./ThinSections/42-1_4x_XPL.jpg> <./ThinSe
+ctions/42-4_20x_PPL.jpg> <./ThinSections/42-4_20x_XPL.jpg>]
+<ThinSections/45-1_4x_PPL.jpg, id=820, 1927.2pt x 1446.90562pt>
+File: ThinSections/45-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/45-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/45-1_4x_PPL.jpg  used on input line 1403.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/45-1_4x_XPL.jpg, id=821, 1927.2pt x 1446.90562pt>
+File: ThinSections/45-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/45-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/45-1_4x_XPL.jpg  used on input line 1407.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/45-2_10x_PPL.jpg, id=822, 1927.2pt x 1446.90562pt>
+File: ThinSections/45-2_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/45-2_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/45-2_10x_PPL.jpg  used on input line 1411
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/45-2_40x_PPL.jpg, id=823, 1927.2pt x 1446.90562pt>
+File: ThinSections/45-2_40x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/45-2_40x_PPL.jpg>
+Package pdftex.def Info: ThinSections/45-2_40x_PPL.jpg  used on input line 1415
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[37 <./ThinSections/45-1_4x_PPL.jpg> <./ThinSections/45-1_4x_XPL.jpg> <./ThinSe
+ctions/45-2_10x_PPL.jpg> <./ThinSections/45-2_40x_PPL.jpg>]
+<ThinSections/46-3_4x_PPL.jpg, id=831, 1927.2pt x 1446.90562pt>
+File: ThinSections/46-3_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/46-3_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/46-3_4x_PPL.jpg  used on input line 1432.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/46-3_4x_XPL.jpg, id=832, 1927.2pt x 1446.90562pt>
+File: ThinSections/46-3_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/46-3_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/46-3_4x_XPL.jpg  used on input line 1436.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/46-4_4x_PPL.jpg, id=833, 1927.2pt x 1446.90562pt>
+File: ThinSections/46-4_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/46-4_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/46-4_4x_PPL.jpg  used on input line 1440.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/46-4_4x_XPL.jpg, id=834, 1927.2pt x 1446.90562pt>
+File: ThinSections/46-4_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/46-4_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/46-4_4x_XPL.jpg  used on input line 1444.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[38 <./ThinSections/46-3_4x_PPL.jpg> <./ThinSections/46-3_4x_XPL.jpg> <./ThinSe
+ctions/46-4_4x_PPL.jpg> <./ThinSections/46-4_4x_XPL.jpg>]
+<ThinSections/44-1_4x_PPL.jpg, id=842, 1927.2pt x 1446.90562pt>
+File: ThinSections/44-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/44-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/44-1_4x_PPL.jpg  used on input line 1477.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/44-1_4x_XPL.jpg, id=843, 1927.2pt x 1446.90562pt>
+File: ThinSections/44-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/44-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/44-1_4x_XPL.jpg  used on input line 1481.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/44-4_10x_PPL.jpg, id=844, 1927.2pt x 1446.90562pt>
+File: ThinSections/44-4_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/44-4_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/44-4_10x_PPL.jpg  used on input line 1485
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/44-4_10x_XPL.jpg, id=845, 1927.2pt x 1446.90562pt>
+File: ThinSections/44-4_10x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/44-4_10x_XPL.jpg>
+Package pdftex.def Info: ThinSections/44-4_10x_XPL.jpg  used on input line 1489
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[39 <./ThinSections/44-1_4x_PPL.jpg> <./ThinSections/44-1_4x_XPL.jpg> <./ThinSe
+ctions/44-4_10x_PPL.jpg> <./ThinSections/44-4_10x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1498.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1498.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1498.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1498.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1498.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1498.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1498.
+
+<ThinSections/50-3_4x_PPL.jpg, id=854, 1927.2pt x 1446.90562pt>
+File: ThinSections/50-3_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/50-3_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/50-3_4x_PPL.jpg  used on input line 1508.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/50-3_4x_XPL.jpg, id=855, 1927.2pt x 1446.90562pt>
+File: ThinSections/50-3_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/50-3_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/50-3_4x_XPL.jpg  used on input line 1512.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[40 <./ThinSections/50-3_4x_PPL.jpg> <./ThinSections/50-3_4x_XPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1519.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1519.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1519.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1519.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1519.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1519.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1519.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+\OT1/cmr/m/n/10 The sam-ple shows a ho-mo-ge-neous non-
+ []
+
+<ThinSections/51-3_4x_PPL.jpg, id=865, 1927.2pt x 1446.90562pt>
+File: ThinSections/51-3_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/51-3_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/51-3_4x_PPL.jpg  used on input line 1529.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/51-3_4x_XPL.jpg, id=866, 1927.2pt x 1446.90562pt>
+File: ThinSections/51-3_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/51-3_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/51-3_4x_XPL.jpg  used on input line 1533.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/51-4_4x_PPL.jpg, id=867, 1927.2pt x 1446.90562pt>
+File: ThinSections/51-4_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/51-4_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/51-4_4x_PPL.jpg  used on input line 1537.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/51-5_4x_PPL.jpg, id=868, 1927.2pt x 1446.90562pt>
+File: ThinSections/51-5_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/51-5_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/51-5_4x_PPL.jpg  used on input line 1549.
+
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+<ThinSections/51-5_10x_PPL.jpg, id=869, 1927.2pt x 1446.90562pt>
+File: ThinSections/51-5_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/51-5_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/51-5_10x_PPL.jpg  used on input line 1557
+.
+(pdftex.def)             Requested size: 136.57635pt x 102.5301pt.
+
+
+[41 <./ThinSections/51-3_4x_PPL.jpg> <./ThinSections/51-3_4x_XPL.jpg> <./ThinSe
+ctions/51-4_4x_PPL.jpg> <./ThinSections/51-5_4x_PPL.jpg> <./ThinSections/51-5_1
+0x_PPL.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 1568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 1568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 1568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1568.
+
+<ThinSections/52-1_4x_PPL.jpg, id=879, 1927.2pt x 1446.90562pt>
+File: ThinSections/52-1_4x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/52-1_4x_PPL.jpg>
+Package pdftex.def Info: ThinSections/52-1_4x_PPL.jpg  used on input line 1578.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/52-1_4x_XPL.jpg, id=880, 1927.2pt x 1446.90562pt>
+File: ThinSections/52-1_4x_XPL.jpg Graphic file (type jpg)
+<use ThinSections/52-1_4x_XPL.jpg>
+Package pdftex.def Info: ThinSections/52-1_4x_XPL.jpg  used on input line 1582.
+
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/52-3_10x_PPL.jpg, id=881, 1927.2pt x 1446.90562pt>
+File: ThinSections/52-3_10x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/52-3_10x_PPL.jpg>
+Package pdftex.def Info: ThinSections/52-3_10x_PPL.jpg  used on input line 1594
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+<ThinSections/52-2_20x_PPL.jpg, id=882, 1927.2pt x 1446.90562pt>
+File: ThinSections/52-2_20x_PPL.jpg Graphic file (type jpg)
+<use ThinSections/52-2_20x_PPL.jpg>
+Package pdftex.def Info: ThinSections/52-2_20x_PPL.jpg  used on input line 1598
+.
+(pdftex.def)             Requested size: 209.1301pt x 156.99646pt.
+
+
+[42 <./ThinSections/52-1_4x_PPL.jpg> <./ThinSections/52-1_4x_XPL.jpg> <./ThinSe
+ctions/52-3_10x_PPL.jpg> <./ThinSections/52-2_20x_PPL.jpg>]
+(./OnOffRivers_OSM_3_Petrography.bbl)
+
+Package natbib Warning: There were multiply defined citations.
+
+
+
+[43] (./OnOffRivers_OSM_3_Petrography.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+Package rerunfilecheck Info: File `OnOffRivers_OSM_3_Petrography.out' has not c
+hanged.
+(rerunfilecheck)             Checksum: 1AD0F50BED185570C01AA04466D79658;18347.
+ ) 
+Here is how much of TeX's memory you used:
+ 24965 strings out of 473579
+ 485147 string characters out of 5732262
+ 862068 words of memory out of 5000000
+ 47363 multiletter control sequences out of 15000+600000
+ 562672 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,8n,101p,1086b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmti10.pfb>
+Output written on OnOffRivers_OSM_3_Petrography.pdf (43 pages, 61174646 bytes).
+
+PDF statistics:
+ 959 PDF objects out of 1000 (max. 8388607)
+ 713 compressed objects within 8 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 1268 words of extra memory for PDF output out of 10000 (max. 10000000)
+

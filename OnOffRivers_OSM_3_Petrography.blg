@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: OnOffRivers_OSM_3_Petrography.aux
+The style file: abbrvnat.bst
+Illegal, another \bibstyle command---line 8 of file OnOffRivers_OSM_3_Petrography.aux
+ : \bibstyle
+ :          {plainnat}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 198 of file OnOffRivers_OSM_3_Petrography.aux
+ : \bibstyle
+ :          {elsarticle-harv}
+I'm skipping whatever remains of this command
+Database file #1: bib.bib
+You've used 5 entries,
+            2773 wiz_defined-function locations,
+            636 strings with 5682 characters,
+and the built_in function-call counts, 1749 in all, are:
+= -- 149
+> -- 70
+< -- 5
++ -- 26
+- -- 21
+* -- 122
+:= -- 295
+add.period$ -- 21
+call.type$ -- 5
+change.case$ -- 20
+chr.to.int$ -- 5
+cite$ -- 10
+duplicate$ -- 102
+empty$ -- 163
+format.name$ -- 26
+if$ -- 361
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 10
+newline$ -- 38
+num.names$ -- 20
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 62
+stack$ -- 0
+substring$ -- 10
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 0
+while$ -- 15
+width$ -- 0
+write$ -- 87
+(There were 2 error messages)

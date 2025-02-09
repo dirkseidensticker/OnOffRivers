@@ -1,0 +1,79 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cau et~al.(2004)Cau, Day, Baxter, Papageorgiou, Iliopoulos, and
+  Montana]{Cau.2004}
+M.-A. Cau, P.~M. Day, M.~J. Baxter, I.~Papageorgiou, I.~Iliopoulos, and
+  G.~Montana.
+\newblock Exploring automatic grouping procedures in ceramic petrology.
+\newblock \emph{Journal of Archaeological Science}, 31\penalty0 (9):\penalty0
+  1325--1338, Sept. 2004.
+\newblock ISSN 03054403.
+\newblock \doi{10.1016/j.jas.2004.03.006}.
+
+\bibitem[Geyh(1990)]{Geyh.1990}
+M.~A. Geyh.
+\newblock Radiocarbon dating problems using acetylene as counting gas.
+\newblock \emph{Radiocarbon}, 32\penalty0 (3):\penalty0 321--324, 1990.
+\newblock \doi{10.1017/S0033822200012947}.
+
+\bibitem[Gosselain(2002)]{Gosselain.2002}
+O.~P. Gosselain.
+\newblock \emph{{Poteries du Cameroun m{\'e}ridionial: styles, techniques et
+  rapports {\`a} l'identit{\'e}}}.
+\newblock Number~26 in {CRA monographies}. CNRS {\'e}d, Paris, 2002.
+\newblock ISBN 978-2-271-06034-1.
+
+\bibitem[Gosselain and Livingstone~Smith(2005)]{Gosselain.2005}
+O.~P. Gosselain and A.~Livingstone~Smith.
+\newblock The {{Source}}: {{Clay Selection}} and {{Processing Practices}} in
+  sub-{{Saharan Africa}}.
+\newblock In A.~Livingstone~Smith and D.~Bosquet, editors, \emph{Pottery
+  Manufacturing Processes: {{Actes}} Du {{XIV{\`e}me Congr{\`e}s UISPP}},
+  {{Universit{\'e}}} de {{Li{\`e}ge}}, {{Belgique}}, 2-8 Septembre 2001,
+  {{Section}} 2: {{Archaeometry}}, Colloque = Symposium 2.1}, {{BAR
+  International Series}}, pages 33--47. Archaeopress, Oxford, 2005.
+\newblock ISBN 1-84171-695-2.
+
+\bibitem[Persits et~al.(1997)Persits, Ahlbrandt, Tuttle, Charpentier,
+  Brownfield, and Takahashi]{Persits.1997}
+F.~Persits, T.~Ahlbrandt, M.~Tuttle, R.~Charpentier, M.~E. Brownfield, and
+  K.~Takahashi.
+\newblock Maps showing geology, oil and gas fields and geological provinces of
+  {{Africa Open-File Report}} 97-470-{{A}}, 1997.
+
+\bibitem[Seidensticker(2021)]{Seidensticker.2021e}
+D.~Seidensticker.
+\newblock \emph{{Arch{\"a}ologische Untersuchungen zur eisenzeitlichen
+  Besiedlungsgeschichte des nordwestlichen Kongobeckens}}.
+\newblock T{\"u}bingen University Press, T{\"u}bingen, Sept. 2021.
+\newblock ISBN 978-3-947251-48-3.
+
+\bibitem[Seidensticker and Hubau(2021)]{Seidensticker.2021f}
+D.~Seidensticker and W.~Hubau.
+\newblock {{aDRAC}} ({{Archive}} des datations radiocarbones d'{{Afrique}}
+  centrale).
+\newblock Zenodo, Feb. 2021.
+
+\bibitem[Whitbread(2001)]{Whitbread.2001}
+I.~K. Whitbread.
+\newblock Ceramic {{Petrology}}, {{Clay Geochemistry}} and {{Ceramic
+  Productionfrom Technology}} to the {{Mind}} of the {{Potter}}.
+\newblock In D.~R. Brothwell and A.~M. Pollard, editors, \emph{Handbook of
+  Archaeological Sciences}, pages 449--459. J. Wiley, Chichester ; New York,
+  2001.
+\newblock ISBN 978-0-471-98484-9.
+
+\bibitem[Wotzka(1995)]{Wotzka.1995}
+H.-P. Wotzka.
+\newblock \emph{{Studien zur Arch{\"a}ologie des zentralafrikanischen
+  Regenwaldes: Die Keramik des inneren Za{\"i}re-Beckens und ihre Stellung im
+  Kontext der Bantu-Expansion}}, volume~6 of \emph{{Africa Praehistorica}}.
+\newblock Heinrich-Barth-Institut, K{\"o}ln, 1995.
+\newblock ISBN 3-927688-07-X.
+
+\end{thebibliography}

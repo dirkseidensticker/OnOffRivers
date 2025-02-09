@@ -1,0 +1,44 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[MacKenzie et~al.(2017)MacKenzie, Adams, and Brodie]{MacKenzie.2017}
+W.~S. MacKenzie, A.~E. Adams, and K.~H. Brodie.
+\newblock \emph{Rocks and Minerals in Thin Section}.
+\newblock CRC press, Boca Raton, revised 2nd ed edition, 2017.
+\newblock ISBN 978-1-138-02806-7 978-1-138-09184-9 978-1-315-11636-5.
+
+\bibitem[Quinn(2022)]{Quinn.2022}
+P.~S. Quinn.
+\newblock \emph{Thin Section Petrography, Geochemistry and Scanning Electron
+  Microscopy of Archaeological Ceramics}.
+\newblock Archaeopress Archaeology, Oxford, 2 edition, 2022.
+\newblock ISBN 978-1-80327-271-9.
+
+\bibitem[Seidensticker(2021)]{Seidensticker.2021e}
+D.~Seidensticker.
+\newblock \emph{{Arch{\"a}ologische Untersuchungen zur eisenzeitlichen
+  Besiedlungsgeschichte des nordwestlichen Kongobeckens}}.
+\newblock T{\"u}bingen University Press, T{\"u}bingen, Sept. 2021.
+\newblock ISBN 978-3-947251-48-3.
+
+\bibitem[Stoops(2021)]{Stoops.2021}
+G.~Stoops.
+\newblock \emph{Guidelines for Analysis and Description of Regolith Thin
+  Sections}.
+\newblock {{ASA}}, {{CSSA}}, and {{SSSA}} Books. Wiley-ACSESS, Hoboken, NJ,
+  second edition edition, 2021.
+\newblock ISBN 978-0-89118-975-6.
+
+\bibitem[Wotzka(1995)]{Wotzka.1995}
+H.-P. Wotzka.
+\newblock \emph{{Studien zur Arch{\"a}ologie des zentralafrikanischen
+  Regenwaldes: Die Keramik des inneren Za{\"i}re-Beckens und ihre Stellung im
+  Kontext der Bantu-Expansion}}, volume~6 of \emph{{Africa Praehistorica}}.
+\newblock Heinrich-Barth-Institut, K{\"o}ln, 1995.
+\newblock ISBN 3-927688-07-X.
+
+\end{thebibliography}

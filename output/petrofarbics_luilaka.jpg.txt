@@ -1,0 +1,43 @@
+
+Link between the cluster variable and the categorical variables (chi-square test)
+=================================================================================
+                           p.value df
+VAR1.Optical.activity   0.00677747  8
+VAR18.1.Sponge.spicules 0.01033605  8
+VAR10.Quartz            0.01735127  4
+VAR15.Muscovite         0.01735127  4
+VAR.b.farbic            0.02262190 16
+VAR5.Organic.Matter     0.02318089  8
+VAR5.Grog               0.03226037  8
+
+Description of each cluster by the categories
+=============================================
+$`1`
+                                                    Cla/Mod Mod/Cla   Global    p.value    v.test
+VAR5.Grog=VAR5.Grog_freq                           80.00000     100 41.66667 0.01010101  2.572352
+VAR18.1.Sponge.spicules=VAR18.1.Sponge.spicules.NA 66.66667     100 50.00000 0.03030303  2.166107
+VAR5.Grog=VAR5.Grog.NA                              0.00000       0 50.00000 0.03030303 -2.166107
+
+$`2`
+                                             Cla/Mod Mod/Cla   Global    p.value   v.test
+VAR5.Organic.Matter=VAR5.Organic.Matter_freq     100     100 16.66667 0.01515152 2.428737
+
+$`3`
+                                                      Cla/Mod Mod/Cla   Global    p.value   v.test
+VAR.b.farbic=undifferentiated                       100.00000     100 16.66667 0.01515152 2.428737
+VAR18.1.Sponge.spicules=VAR18.1.Sponge.spicules_few  66.66667     100 25.00000 0.04545455 2.000424
+VAR1.Optical.activity=Inactive                       66.66667     100 25.00000 0.04545455 2.000424
+
+$`4`
+                                                       Cla/Mod Mod/Cla   Global    p.value    v.test
+VAR10.Quartz=VAR10.Quartz_few                        100.00000     100 16.66667 0.01515152  2.428737
+VAR18.1.Sponge.spicules=VAR18.1.Sponge.spicules_freq  66.66667     100 25.00000 0.04545455  2.000424
+VAR.b.farbic=unistriated                              66.66667     100 25.00000 0.04545455  2.000424
+VAR10.Quartz=VAR10.Quartz_freq                         0.00000       0 83.33333 0.01515152 -2.428737
+
+$`5`
+                                     Cla/Mod Mod/Cla   Global    p.value    v.test
+VAR1.Optical.activity=Intermediate 100.00000     100 16.66667 0.01515152  2.428737
+VAR15.Biotite=VAR15.Biotite_few     66.66667     100 25.00000 0.04545455  2.000424
+VAR15.Biotite=VAR15.Biotite.NA       0.00000       0 75.00000 0.04545455 -2.000424
+

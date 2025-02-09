@@ -1,0 +1,62 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Clist(2004/2005)]{Clist.2004}
+B.~Clist.
+\newblock \emph{{Des premi{\`e}rs villages aux premiers Europ{\'e}ens autour de
+  l'Estuaire du Gabon. Quatre mill{\'e}naires d'interactions entre l'homme et
+  son milieu. Unpubl. Ph.D. Dissertation. Universit{\'e} Libre de Bruxelles,
+  Academic Year 2004-2005}}.
+\newblock Universite Libre de Bruxelles, Brussels, 2004/2005.
+
+\bibitem[Eggert(1992)]{Eggert.1992}
+M.~K.~H. Eggert.
+\newblock The {{Central African Rain Forest}}: {{Historical Speculation}} and
+  {{Archaeological Facts}}.
+\newblock \emph{World Archaeology}, 24:\penalty0 1--24, 1992.
+\newblock \doi{10.1080/00438243.1992.9980190}.
+
+\bibitem[Eggert(1993)]{Eggert.1993}
+M.~K.~H. Eggert.
+\newblock Central {{Africa}} and the {{Archaeology}} of the {{Equatorial
+  Rainforest}}. {{Reflections}} on {{Some Major Topics}}.
+\newblock In T.~Shaw, P.~Sinclair, B.~Andah, and A.~Okpoko, editors, \emph{The
+  {{Archaeology}} of {{Africa}}. {{Food}}, {{Metal}} and {{Towns}}}, One
+  {{World Archaeology}}, pages 289--329. Routledge, London and New York, 1993.
+
+\bibitem[Eggert(in prep.)]{Eggert.inVorb.}
+M.~K.~H. Eggert.
+\newblock \emph{Pottery Making in {{Ikenge}} on the {{Ruki}} and Other Villages
+  in the {{Congo Basin}}}.
+\newblock Edition {{Historische Kulturwissenschaften}}. Waxmann, M{\"u}nster
+  and New York, in prep.
+
+\bibitem[Seidensticker(2021)]{Seidensticker.2021e}
+D.~Seidensticker.
+\newblock \emph{{Arch{\"a}ologische Untersuchungen zur eisenzeitlichen
+  Besiedlungsgeschichte des nordwestlichen Kongobeckens}}.
+\newblock T{\"u}bingen University Press, T{\"u}bingen, Sept. 2021.
+\newblock ISBN 978-3-947251-48-3.
+
+\bibitem[Seidensticker(2024)]{Seidensticker.2024}
+D.~Seidensticker.
+\newblock Pikunda-{{Munda}} and {{Batalimo-Maluba}}: {{Archaeological
+  Investigations}} of the {{Iron Age Settlement History}} of the {{Western}}
+  and {{Northern Congo Basin}}.
+\newblock \emph{African Archaeological Review}, Mar. 2024.
+\newblock ISSN 0263-0338, 1572-9842.
+\newblock \doi{10.1007/s10437-024-09576-7}.
+
+\bibitem[Wotzka(1995)]{Wotzka.1995}
+H.-P. Wotzka.
+\newblock \emph{{Studien zur Arch{\"a}ologie des zentralafrikanischen
+  Regenwaldes: Die Keramik des inneren Za{\"i}re-Beckens und ihre Stellung im
+  Kontext der Bantu-Expansion}}, volume~6 of \emph{{Africa Praehistorica}}.
+\newblock Heinrich-Barth-Institut, K{\"o}ln, 1995.
+\newblock ISBN 3-927688-07-X.
+
+\end{thebibliography}

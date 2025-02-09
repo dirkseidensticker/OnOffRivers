@@ -1,0 +1,46 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Pikunda}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}PIK 87/1-1:35 (pik\#11; Mandombe style; Fig.~\ref {fig:thinsections}M--N)}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}PIK 87/1-2:70 (pik\#55; Ebambe style; Fig.~\ref {fig:thinsections}A--C)}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}PIK 87/1-2:123 (pik\#10; Mandombe style)}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}PIK~87/1-7:12 \citep [pik\#4; Fig.~\ref {fig:pik.pottery}.3; Pikunda-Munda style;][427 Pl.~46.21]{Seidensticker.2021e}}{6}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}PIK~87/1-8:1 \citep [pik\#5; Fig.~\ref {fig:pik.pottery}.6; cf. Ngbanja style;][428 Pl.~47.20]{Seidensticker.2021e}}{7}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}PIK~87/1-8:2 \citep [pik\#56; Fig.~\ref {fig:pik.pottery}.7; cf. Ngbanja style;][428 Pl.~47.21]{Seidensticker.2021e}}{8}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}PIK~87/1-9:5 \citep [pik\#54; Fig.~\ref {fig:pik.pottery}.4; Pikunda-Munda style;][428 Pl.~47.7]{Seidensticker.2021e}}{9}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}PIK~87/1-9:7 \citep [pik\#6; Fig.~\ref {fig:pik.pottery}.8; cf. Ngbanja style;][428 Pl.~47.19]{Seidensticker.2021e}}{10}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}PIK~87/1-12:1 \citep [pik\#53; Fig.~\ref {fig:pik.pottery}.2; Lusako style;][426 Pl.~45.16]{Seidensticker.2021e}}{11}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}PIK~87/2-1:40 \citep [pik\#99; Fig.~\ref {fig:pik.pottery}.12; Ebambe style;][430 Pl.~49.10]{Seidensticker.2021e}}{12}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}PIK~87/2-4:73 \citep [pik\#98; Fig.~\ref {fig:pik.pottery}.5; Pikunda-Munda style;][429 Pl.~48.25]{Seidensticker.2021e}}{13}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}PIK~87/2-6:52 \citep [pik\#97; Fig.~\ref {fig:pik.pottery}.11; cf. modern;][430 Pl.~49.5]{Seidensticker.2021e}}{14}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}PIK~87/2-6:77 (pik\#9)}{15}{subsection.1.13}%
+\contentsline {subsection}{\numberline {1.14}PIK~87/501:4 (pik\#57; Fig.~\ref {fig:thinsections}O)}{16}{subsection.1.14}%
+\contentsline {section}{\numberline {2}Munda}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}MUN~87/2-1-1-2:2 \citep [mun\#3; Fig.~\ref {fig:mun.pottery}.1; Pikunda-Munda style;][472 Pl.~91.2]{Seidensticker.2021e}}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}MUN~87/2-1-1-4:2 \citep [mun\#2; Fig.~\ref {fig:mun.pottery}.2; Pikunda-Munda style;][472 Pl.~91.1]{Seidensticker.2021e}}{18}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}MUN~87/2-1-1-5:2 \citep [mun\#104; Fig.~\ref {fig:mun.pottery}.3; Pikunda-Munda style;][472 Pl.~91.5]{Seidensticker.2021e}}{19}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}MUN~87/2-1-1-7:2 \citep [mun\#105; Fig.~\ref {fig:mun.pottery}.6; Pikunda-Munda style;][472 Pl.~91.6]{Seidensticker.2021e}}{20}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}MUN~87/2-1-1-8:1 \citep [mun\#106; Fig.~\ref {fig:mun.pottery}.5; Pikunda-Munda style;][472 Pl.~91.8]{Seidensticker.2021e}}{21}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}MUN~87/2-1-1-8:3 \citep [mun\#107; Fig.~\ref {fig:mun.pottery}.4; Pikunda-Munda style;][472 Pl.~91.7]{Seidensticker.2021e}}{22}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}MUN~87/2-1-3-1:2 \citep [mun\#103; Fig.~\ref {fig:mun.pottery}.7; Pikunda-Munda style;][473 Pl.~92.2]{Seidensticker.2021e}}{23}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}MUN~87/2-1-3-4:4 \citep [mun\#100; Fig.~\ref {fig:mun.pottery}.8; Pikunda-Munda style;][473 Pl.~92.4]{Seidensticker.2021e}}{24}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}MUN~87/2-1-3:3 \citep [mun\#102; Fig.~\ref {fig:mun.pottery}.9; Pikunda-Munda style;][473 Pl.~92.5]{Seidensticker.2021e}}{25}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}MUN~87/2-1-3:7 \citep [mun\#101; Fig.~\ref {fig:mun.pottery}.10; Pikunda-Munda style;][474 Pl.~93.1]{Seidensticker.2021e}}{26}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}MUN~87/1-0-2-1:1 \citep [mun\#109; Fig.~\ref {fig:mun.pottery}.12; Ebambe style;][470 Pl.~89.4]{Seidensticker.2021e}}{27}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}MUN~87/1-0-2-4:2 \citep [mun\#110; Fig.~\ref {fig:mun.pottery}.11; Ebambe style;][470 Pl.~89.2]{Seidensticker.2021e}}{28}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}MUN~87/1-0-2-6:1 \citep [mun\#17; Fig.~\ref {fig:mun.pottery}.14; Ebambe style;][471 Pl.~90.2]{Seidensticker.2021e}}{29}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}MUN~87/1-0-2-6:2 \citep [mun\#108; Fig.~\ref {fig:mun.pottery}.13; Ebambe style;][471 Pl.~90.1]{Seidensticker.2021e}}{30}{subsection.2.14}%
+\contentsline {section}{\numberline {3}Wafanya}{31}{section.3}%
+\contentsline {subsection}{\numberline {3.1}WAF~83/16-2:1 \citep [waf\#47; Fig.~\ref {fig:wafmon.pottery}.2; Monkoto style;][504 Pl.~70.10]{Wotzka.1995}}{31}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}WAF~83/16-2:3 \citep [waf\#48; Fig.~\ref {fig:wafmon.pottery}.6; \ref {fig:thinsections}K--L; Bekongo style;][503 Pl.~69.6]{Wotzka.1995}}{32}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}WAF~83/16-5:33 \citep [waf\#96; Fig.~\ref {fig:wafmon.pottery}.5; Bekongo style;][503 Pl.~69.5]{Wotzka.1995}}{33}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}WAF~83/16-7-1:2 \citep [waf\#49; Fig.~\ref {fig:wafmon.pottery}.7; Longa style;][503 Pl.~69.9]{Wotzka.1995}}{34}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Salonga National Park}{35}{section.4}%
+\contentsline {subsection}{\numberline {4.1}SNP~01 7:1 (snp\#43, Fig.~\ref {fig:snp.pottery}.1; cf. Bokuma style)}{35}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}SNP~03-4:1 (snp\#42; Fig.~\ref {fig:thinsections}G--H; \ref {fig:snp.pottery}.5)}{36}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}SNP~03-4:4 (snp\#45)}{37}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}SNP~03-4:5 (snp\#46; Fig.~\ref {fig:thinsections}E--F)}{38}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}SNP~03-7:1 (snp\#44; Fig.~\ref {fig:thinsections}I; \ref {fig:snp.pottery}.7)}{39}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Monkoto}{40}{section.5}%
+\contentsline {subsection}{\numberline {5.1}MON~83/101:1 \citep [mon\#50; Fig.~\ref {fig:wafmon.pottery}.1; Monkoto style;][506 Pl.~72.5]{Wotzka.1995}}{40}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}MON~83/101:3 \citep [mon\#51; Fig.~\ref {fig:wafmon.pottery}.3; \ref {fig:thinsections}D; Monkoto style;][506 Pl.~72.6]{Wotzka.1995}}{41}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}MON~83/101:4 \citep [mon\#52; Fig.~\ref {fig:wafmon.pottery}.4; \ref {fig:thinsections}J;][505 Pl.~71.6]{Wotzka.1995}}{42}{subsection.5.3}%

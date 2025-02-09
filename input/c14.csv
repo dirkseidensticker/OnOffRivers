@@ -1,0 +1,27 @@
+LABNR,C14AGE,C14STD,C13,METHOD,MATERIAL,COUNTRY,SITE,FEATURE,FEATURE_DESC,DEPTH,LAT,LONG,PHASE,LITHICS,POTTERY,IRON,FRUIT,ZOO,CLASS,REMARK,SOURCE
+KI-2877,1980,100,-26.9,,Charcoal,COG,Pikunda,PIK 87/1,Pit,1.47,0.55,16.636,,-,Pikunda-Munda; Lusako,,-,-,Ia,,Eggert 1992: 16 Tab. 3; Wotzka 1995; Seidensticker 2017
+RICH-30864,1850,24,,,Food Crust,COG,Pikunda,PIK 87/1,Pit,,0.55,16.636,,-,Pikunda-Munda,,,-,Ia,,
+KI-2891,600,75,,,Charcoal,COG,Pikunda,PIK 87/1,Pit,0.18,0.55,16.636,,-,Mandombe,object; slag,,-,Ia,,Seidensticker 2017
+KI-2892,840,41,,,Charcoal,COG,Pikunda,PIK 87/3,Furnace,0.57,0.55,16.636,,-,indet,slag,,-,Ib,,Seidensticker 2017
+KI-2876,1980,41,-25.5,,Charcoal,COG,Munda,MUN 87/2-1-3,Pit,0.1,1.163,17.357,,-,Pikunda-Munda,,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2881,1990,45,-25.1,,Charcoal_endocarp_elaeis,COG,Munda,MUN 87/2-1-1,Pit,0.6,1.163,17.357,,-,Pikunda-Munda,,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2882,1110,110,,,Charcoal,COG,Munda,MUN 87/1-0-1,Furnace,0.28,1.163,17.357,,-,indet,slag,,-,Ib,,Seidensticker 2017
+KI-2883,870,180,,,Charcoal,COG,Munda,MUN 87/1-0-1,Furnace,0.3,1.163,17.357,,-,indet,slag,,-,Ib,,Seidensticker 2017
+KI-2884,250,40,,,Charcoal,COG,Munda,MUN 87/1-0-2,Pit,0.55,1.163,17.357,,-,Ebambe,slag,,-,Ia,,Seidensticker 2017
+KI-2885,1800,90,-27.3,,Charcoal,COG,Munda,MUN 87/2-1-1,Pit; Furnace,0.29,1.163,17.357,,-,Pikunda-Munda,object; slag,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2886,1910,80,-26.1,,Charcoal,COG,Munda,MUN 87/2-1-1,Pit,0.65,1.163,17.357,,-,Pikunda-Munda,,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2887,2020,180,-28.3,,Charcoal,COG,Munda,MUN 87/2-1-1,Pit; Furnace,0.69,1.163,17.357,,-,Pikunda-Munda,object; slag,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2888,1990,65,-25.8,,Charcoal,COG,Munda,MUN 87/2-1-3,Pit,0.6,1.163,17.357,,-,Pikunda-Munda,-,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2889,1650,80,-28,,Charcoal,COG,Munda,MUN 87/3,-,0.05,1.163,17.357,,-,Pikunda-Munda,slag,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+KI-2890,1680,90,-27.9,,Charcoal,COG,Munda,MUN 87/3,-,,1.163,17.357,,-,Pikunda-Munda,slag,Eg,,Ia,,Eggert 1992: 16 Tab. 3; Eggert 1993; Seidensticker 2017
+RICH-30865,192,22,-26.2,AMS,Foodcrust,COG,Munda,MUN 87/1-0-2,,0.65,1.163,17.357,,,Ebambe,,,,Ia,,Seidensticker 2024: Tab. 2
+RICH-30866,328,22,-26.1,AMS,Foodcrust,COG,Munda,MUN 87/1-0-2,,0.3,1.163,17.357,,,Ebambe,,,,Ia,,Seidensticker 2024: Tab. 2
+Hv-12611,2695,160,,,Charcoal,COD,Wafanya,WAF 83/16-6,Layer,,-1.355,20.379,,-,(Monkoto); (Longa),-,-,,IIIa,,"Wotzka 1995: 99, 127 Tab. 53, 368; Seidensticker 2017: Tab. 21"
+Hv-12612,3305,250,,,Charcoal,COD,Wafanya,WAF 83/16-5,Layer,,-1.355,20.379,,-,(Monkoto); (Longa); (Bekongo); (Wafanya); (Botendo) ,-,-,,IIIa,,Wotzka 1995: 368; Seidensticker 2017: Tab. 21
+Hv-12613,1920,90,,,Charcoal,COD,Wafanya,WAF 83/16-8,Layer,,-1.355,20.379,,-,Monkoto; (Longa),-,-,,Ia,,"Wotzka 1995: 99, 127 Tab. 53, 368; Seidensticker 2017: Tab. 21"
+Hv-12622,1245,90,,,Charcoal,COD,Wafanya,WAF 83/3,-,,-1.355,20.379,(MIA),-,(Wafanya),-,-,,IIIa,,Wotzka 1995; Seidensticker 2017: Tab. 21
+KI-2365.01,280,70,-25.9,,Charcoal,COD,Wafanya,WAF 83/16-5,Layer,,-1.355,20.379,,-,(Monkoto); (Longa); (Bekongo); Wafanya; Botendo ,-,,-,Ia,,Wotzka 1995: 368; Seidensticker 2017: Tab. 21
+RICH-25306,2185,25,,,Charcoal,COG,SNP,SNP-01,Layer,0.65,-1.7,20.55,,,(Bokuma),,,,Ia,,
+RICH-25315,385,26,,,Charcoal,COG,SNP,SNP-01,Layer,0.35,-1.7,20.55,,,indet,,,,Ia,,
+RICH-25317,1239,25,,,Charcoal,COG,SNP,SNP-03,Layer,0.35,-1.7,20.55,,,indet,,,,Ia,,
+RICH-33240,1169,28,,,Seed,COG,Wafanya,WAF 83/16,Layer,,0.55,16.636,,-,Bekongo,,,,Ia,,

@@ -1,0 +1,32 @@
+
+Link between the cluster variable and the quantitative variables
+================================================================
+        Eta2      P-value
+Fe 0.9411288 2.885568e-05
+Ti 0.9284528 6.261283e-05
+Si 0.7957080 3.919868e-03
+K  0.7671329 6.526064e-03
+Al 0.7462118 9.110952e-03
+
+Description of each cluster by quantitative variables
+=====================================================
+$`1`
+      v.test Mean in category Overall mean sd in category Overall sd    p.value
+K  -2.202385         2.868942     3.270214      0.2878363  0.4272936 0.02763815
+Ti -2.422856         1.128563     2.649210      0.1594458  1.4719129 0.01539902
+
+$`2`
+      v.test Mean in category Overall mean sd in category Overall sd    p.value
+Fe -2.115256         2.803393     5.680047       0.232616   2.604117 0.03440816
+
+$`3`
+      v.test Mean in category Overall mean sd in category Overall sd    p.value
+K   2.471849         3.982307     3.270214      0.1266311  0.4272936 0.01344162
+Si -2.036266        60.267838    66.618175      0.6189657  4.6256594 0.04172368
+
+$`4`
+     v.test Mean in category Overall mean sd in category Overall sd    p.value
+Ti 2.507376       4.57658387   2.64921012     0.73611215 1.47191295 0.01216311
+Sr 2.304716       0.03733544   0.01479622     0.02614832 0.01872651 0.02118246
+Al 2.012986      25.47341737  21.76755795     2.40648836 3.52520108 0.04411610
+
